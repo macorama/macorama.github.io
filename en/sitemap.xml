@@ -3,1697 +3,1697 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/introduction/</loc>
+    <loc>/hugo-pipes/introduction/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/</loc>
+    <loc>/coding/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/</loc>
+    <loc>/content-management/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/contribute/</loc>
+    <loc>/contribute/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/</loc>
+    <loc>/functions/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/</loc>
+    <loc>/getting-started/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/</loc>
+    <loc>/milestones/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/documentation/</loc>
+    <loc>/documentation/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/</loc>
+    <loc>/hugo-modules/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/troubleshooting/</loc>
+    <loc>/troubleshooting/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/</loc>
+    <loc>/variables/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/tools/</loc>
+    <loc>/tools/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/</loc>
+    <loc>/hosting-and-deployment/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hugo-deploy/</loc>
+    <loc>/hosting-and-deployment/hugo-deploy/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/scss-sass/</loc>
+    <loc>/hugo-pipes/scss-sass/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/troubleshooting/faq/</loc>
+    <loc>/troubleshooting/faq/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/troubleshooting/build-performance/</loc>
+    <loc>/troubleshooting/build-performance/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/kindergarten/</loc>
+    <loc>/getting-started/kindergarten/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/kindergarten/</loc>
+    <loc>/milestones/kindergarten/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/about/selection/</loc>
+    <loc>/about/selection/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/about/hugo-and-gdpr/</loc>
+    <loc>/about/hugo-and-gdpr/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/deployment-with-nanobox/</loc>
+    <loc>/hosting-and-deployment/deployment-with-nanobox/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/between-the-lions/</loc>
+    <loc>/hugo-modules/between-the-lions/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hosting-on-render/</loc>
+    <loc>/hosting-and-deployment/hosting-on-render/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/</loc>
+    <loc>/hugo-pipes/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hosting-on-aws-amplify/</loc>
+    <loc>/hosting-and-deployment/hosting-on-aws-amplify/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/codeorg/</loc>
+    <loc>/coding/codeorg/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/contribute/development/</loc>
+    <loc>/contribute/development/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hosting-on-netlify/</loc>
+    <loc>/hosting-and-deployment/hosting-on-netlify/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/tools/migrations/</loc>
+    <loc>/tools/migrations/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/organization/</loc>
+    <loc>/content-management/organization/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/site/</loc>
+    <loc>/variables/site/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/about/suggest/</loc>
+    <loc>/about/suggest/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/grade1/</loc>
+    <loc>/getting-started/grade1/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/grade1/</loc>
+    <loc>/milestones/grade1/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/tynker/</loc>
+    <loc>/coding/tynker/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/scratch/</loc>
+    <loc>/coding/scratch/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/oxfordowl/</loc>
+    <loc>/hugo-modules/oxfordowl/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/pbs-reading/</loc>
+    <loc>/hugo-modules/pbs-reading/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/readwritethink/</loc>
+    <loc>/hugo-modules/readwritethink/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/storyline/</loc>
+    <loc>/hugo-modules/storyline/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/storynory/</loc>
+    <loc>/hugo-modules/storynory/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/storyplace/</loc>
+    <loc>/hugo-modules/storyplace/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hosting-on-firebase/</loc>
+    <loc>/hosting-and-deployment/hosting-on-firebase/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/shortcodes/</loc>
+    <loc>/variables/shortcodes/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/contribute/documentation/</loc>
+    <loc>/contribute/documentation/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/about/features/</loc>
+    <loc>/about/features/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/page/</loc>
+    <loc>/variables/page/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/syntax-highlighting/</loc>
+    <loc>/content-management/syntax-highlighting/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/whitehat-jr/</loc>
+    <loc>/coding/whitehat-jr/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/formats/</loc>
+    <loc>/content-management/formats/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/pages/</loc>
+    <loc>/variables/pages/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/kodable/</loc>
+    <loc>/coding/kodable/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/related/</loc>
+    <loc>/content-management/related/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/tools/starter-kits/</loc>
+    <loc>/tools/starter-kits/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/about/feedback/</loc>
+    <loc>/about/feedback/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/khanacademy/</loc>
+    <loc>/coding/khanacademy/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/taxonomy/</loc>
+    <loc>/variables/taxonomy/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/contribute/themes/</loc>
+    <loc>/contribute/themes/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/front-matter/</loc>
+    <loc>/content-management/front-matter/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/grade2/</loc>
+    <loc>/getting-started/grade2/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/grade2/</loc>
+    <loc>/milestones/grade2/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hosting-on-github/</loc>
+    <loc>/hosting-and-deployment/hosting-on-github/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/build-options/</loc>
+    <loc>/content-management/build-options/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/shortcodes/</loc>
+    <loc>/content-management/shortcodes/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/postprocess/</loc>
+    <loc>/hugo-pipes/postprocess/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/postcss/</loc>
+    <loc>/hugo-pipes/postcss/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/files/</loc>
+    <loc>/variables/files/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/tools/frontends/</loc>
+    <loc>/tools/frontends/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/grade3/</loc>
+    <loc>/getting-started/grade3/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/grade3/</loc>
+    <loc>/milestones/grade3/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/grade4/</loc>
+    <loc>/getting-started/grade4/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/quick-start/</loc>
+    <loc>/getting-started/quick-start/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/grade4/</loc>
+    <loc>/milestones/grade4/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/grade5/</loc>
+    <loc>/getting-started/grade5/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/grade5/</loc>
+    <loc>/milestones/grade5/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/terrapin-logo/</loc>
+    <loc>/coding/terrapin-logo/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hosting-on-gitlab/</loc>
+    <loc>/hosting-and-deployment/hosting-on-gitlab/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/js/</loc>
+    <loc>/hugo-pipes/js/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/babel/</loc>
+    <loc>/hugo-pipes/babel/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/minification/</loc>
+    <loc>/hugo-pipes/minification/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/menus/</loc>
+    <loc>/variables/menus/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hosting-on-bitbucket/</loc>
+    <loc>/hosting-and-deployment/hosting-on-bitbucket/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/tools/editors/</loc>
+    <loc>/tools/editors/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/coding/hopscotch/</loc>
+    <loc>/coding/hopscotch/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/sections/</loc>
+    <loc>/content-management/sections/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-modules/starfall/</loc>
+    <loc>/hugo-modules/starfall/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/directory-structure/</loc>
+    <loc>/getting-started/directory-structure/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/directory-structure/</loc>
+    <loc>/milestones/directory-structure/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/bundling/</loc>
+    <loc>/hugo-pipes/bundling/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/code-toggle/</loc>
+    <loc>/getting-started/code-toggle/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/code-toggle/</loc>
+    <loc>/milestones/code-toggle/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/hugo/</loc>
+    <loc>/variables/hugo/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/types/</loc>
+    <loc>/content-management/types/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/deployment-with-wercker/</loc>
+    <loc>/hosting-and-deployment/deployment-with-wercker/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/tools/search/</loc>
+    <loc>/tools/search/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/about/divide/</loc>
+    <loc>/about/divide/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/configuration/</loc>
+    <loc>/getting-started/configuration/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/configuration/</loc>
+    <loc>/milestones/configuration/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/configuration-markup/</loc>
+    <loc>/getting-started/configuration-markup/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/configuration-markup/</loc>
+    <loc>/milestones/configuration-markup/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/getting-started/external-learning-resources/</loc>
+    <loc>/getting-started/external-learning-resources/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/milestones/external-learning-resources/</loc>
+    <loc>/milestones/external-learning-resources/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/fingerprint/</loc>
+    <loc>/hugo-pipes/fingerprint/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/git/</loc>
+    <loc>/variables/git/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/archetypes/</loc>
+    <loc>/content-management/archetypes/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/deployment-with-rsync/</loc>
+    <loc>/hosting-and-deployment/deployment-with-rsync/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/tools/other/</loc>
+    <loc>/tools/other/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/resource-from-template/</loc>
+    <loc>/hugo-pipes/resource-from-template/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/variables/sitemap/</loc>
+    <loc>/variables/sitemap/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/taxonomies/</loc>
+    <loc>/content-management/taxonomies/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hugo-pipes/resource-from-string/</loc>
+    <loc>/hugo-pipes/resource-from-string/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/summaries/</loc>
+    <loc>/content-management/summaries/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/cross-references/</loc>
+    <loc>/content-management/cross-references/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/urls/</loc>
+    <loc>/content-management/urls/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/menus/</loc>
+    <loc>/content-management/menus/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/static-files/</loc>
+    <loc>/content-management/static-files/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/toc/</loc>
+    <loc>/content-management/toc/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/comments/</loc>
+    <loc>/content-management/comments/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/multilingual/</loc>
+    <loc>/content-management/multilingual/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/page-resources/</loc>
+    <loc>/content-management/page-resources/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/image-processing/</loc>
+    <loc>/content-management/image-processing/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/blog/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="macorama.github.io/zh/categories/"
+                href="/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="macorama.github.io/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>macorama.github.io/news/lets-celebrate-hugos-5th-birthday/</loc>
+    <loc>/news/lets-celebrate-hugos-5th-birthday/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/news/http2-server-push-in-hugo/</loc>
+    <loc>/news/http2-server-push-in-hugo/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/</loc>
+    <loc>/commands/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo/</loc>
+    <loc>/commands/hugo/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_check/</loc>
+    <loc>/commands/hugo_check/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_check_ulimit/</loc>
+    <loc>/commands/hugo_check_ulimit/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_config/</loc>
+    <loc>/commands/hugo_config/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_config_mounts/</loc>
+    <loc>/commands/hugo_config_mounts/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_convert/</loc>
+    <loc>/commands/hugo_convert/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_convert_tojson/</loc>
+    <loc>/commands/hugo_convert_tojson/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_convert_totoml/</loc>
+    <loc>/commands/hugo_convert_totoml/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_convert_toyaml/</loc>
+    <loc>/commands/hugo_convert_toyaml/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_deploy/</loc>
+    <loc>/commands/hugo_deploy/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_env/</loc>
+    <loc>/commands/hugo_env/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_gen/</loc>
+    <loc>/commands/hugo_gen/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_gen_autocomplete/</loc>
+    <loc>/commands/hugo_gen_autocomplete/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_gen_chromastyles/</loc>
+    <loc>/commands/hugo_gen_chromastyles/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_gen_doc/</loc>
+    <loc>/commands/hugo_gen_doc/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_gen_man/</loc>
+    <loc>/commands/hugo_gen_man/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_import/</loc>
+    <loc>/commands/hugo_import/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_import_jekyll/</loc>
+    <loc>/commands/hugo_import_jekyll/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_list/</loc>
+    <loc>/commands/hugo_list/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_list_all/</loc>
+    <loc>/commands/hugo_list_all/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_list_drafts/</loc>
+    <loc>/commands/hugo_list_drafts/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_list_expired/</loc>
+    <loc>/commands/hugo_list_expired/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_list_future/</loc>
+    <loc>/commands/hugo_list_future/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod/</loc>
+    <loc>/commands/hugo_mod/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_clean/</loc>
+    <loc>/commands/hugo_mod_clean/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_get/</loc>
+    <loc>/commands/hugo_mod_get/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_graph/</loc>
+    <loc>/commands/hugo_mod_graph/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_init/</loc>
+    <loc>/commands/hugo_mod_init/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_npm/</loc>
+    <loc>/commands/hugo_mod_npm/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_npm_pack/</loc>
+    <loc>/commands/hugo_mod_npm_pack/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_tidy/</loc>
+    <loc>/commands/hugo_mod_tidy/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_vendor/</loc>
+    <loc>/commands/hugo_mod_vendor/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_mod_verify/</loc>
+    <loc>/commands/hugo_mod_verify/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_new/</loc>
+    <loc>/commands/hugo_new/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_new_site/</loc>
+    <loc>/commands/hugo_new_site/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_new_theme/</loc>
+    <loc>/commands/hugo_new_theme/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_server/</loc>
+    <loc>/commands/hugo_server/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/commands/hugo_version/</loc>
+    <loc>/commands/hugo_version/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/functions/</loc>
+    <loc>/categories/functions/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/strings.count/</loc>
+    <loc>/functions/strings.count/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/asset-management/</loc>
+    <loc>/categories/asset-management/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/hmac/</loc>
+    <loc>/functions/hmac/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/digitalgov/</loc>
+    <loc>/showcase/digitalgov/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/</loc>
+    <loc>/showcase/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/keycdn/</loc>
+    <loc>/showcase/keycdn/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/content-management/</loc>
+    <loc>/categories/content-management/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/aether/</loc>
+    <loc>/showcase/aether/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/renderstring/</loc>
+    <loc>/functions/renderstring/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/fundamentals/</loc>
+    <loc>/categories/fundamentals/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/getting-started/</loc>
+    <loc>/categories/getting-started/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/variables-and-params/</loc>
+    <loc>/categories/variables-and-params/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/hapticmedia/</loc>
+    <loc>/showcase/hapticmedia/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/strings.hassuffix/</loc>
+    <loc>/functions/strings.hassuffix/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/merge/</loc>
+    <loc>/functions/merge/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/hugo-modules/</loc>
+    <loc>/categories/hugo-modules/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/bypasscensorship/</loc>
+    <loc>/showcase/bypasscensorship/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/hosting-and-deployment/</loc>
+    <loc>/categories/hosting-and-deployment/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/pharmaseal/</loc>
+    <loc>/showcase/pharmaseal/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/fireship/</loc>
+    <loc>/showcase/fireship/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/hugo/</loc>
+    <loc>/functions/hugo/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/transform.unmarshal/</loc>
+    <loc>/functions/transform.unmarshal/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/path.base/</loc>
+    <loc>/functions/path.base/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/path.dir/</loc>
+    <loc>/functions/path.dir/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/path.ext/</loc>
+    <loc>/functions/path.ext/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/path.join/</loc>
+    <loc>/functions/path.join/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/path.split/</loc>
+    <loc>/functions/path.split/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/reflect.ismap/</loc>
+    <loc>/functions/reflect.ismap/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/reflect.isslice/</loc>
+    <loc>/functions/reflect.isslice/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/complement/</loc>
+    <loc>/functions/complement/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/symdiff/</loc>
+    <loc>/functions/symdiff/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/templates.exists/</loc>
+    <loc>/functions/templates.exists/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/anchorize/</loc>
+    <loc>/functions/anchorize/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/append/</loc>
+    <loc>/functions/append/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/group/</loc>
+    <loc>/functions/group/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/over/</loc>
+    <loc>/showcase/over/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/arolla-cocoon/</loc>
+    <loc>/showcase/arolla-cocoon/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/os.stat/</loc>
+    <loc>/functions/os.stat/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/strings.runecount/</loc>
+    <loc>/functions/strings.runecount/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/strings.repeat/</loc>
+    <loc>/functions/strings.repeat/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/tomango/</loc>
+    <loc>/showcase/tomango/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/flesland-flis/</loc>
+    <loc>/showcase/flesland-flis/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/forestry/</loc>
+    <loc>/showcase/forestry/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/lang.merge/</loc>
+    <loc>/functions/lang.merge/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/letsencrypt/</loc>
+    <loc>/showcase/letsencrypt/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/1password-support/</loc>
+    <loc>/showcase/1password-support/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/stackimpact/</loc>
+    <loc>/showcase/stackimpact/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/quiply-employee-communications-app/</loc>
+    <loc>/showcase/quiply-employee-communications-app/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/linode/</loc>
+    <loc>/showcase/linode/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/troubleshooting/</loc>
+    <loc>/categories/troubleshooting/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/hartwell-insurance/</loc>
+    <loc>/showcase/hartwell-insurance/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/maintenance/</loc>
+    <loc>/categories/maintenance/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/maintenance/</loc>
+    <loc>/maintenance/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/pace-revenue-management/</loc>
+    <loc>/showcase/pace-revenue-management/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/showcase/template/</loc>
+    <loc>/showcase/template/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/content-management/page-bundles/</loc>
+    <loc>/content-management/page-bundles/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/errorf/</loc>
+    <loc>/functions/errorf/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/float/</loc>
+    <loc>/functions/float/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/urls.parse/</loc>
+    <loc>/functions/urls.parse/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/hosting-and-deployment/hosting-on-keycdn/</loc>
+    <loc>/hosting-and-deployment/hosting-on-keycdn/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/cond/</loc>
+    <loc>/functions/cond/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/fileexists/</loc>
+    <loc>/functions/fileexists/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/ge/</loc>
+    <loc>/functions/ge/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/gt/</loc>
+    <loc>/functions/gt/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/le/</loc>
+    <loc>/functions/le/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/lt/</loc>
+    <loc>/functions/lt/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/ne/</loc>
+    <loc>/functions/ne/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/templates/</loc>
+    <loc>/categories/templates/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="macorama.github.io/zh/"
+                href="/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="macorama.github.io/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/adddate/</loc>
+    <loc>/functions/adddate/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/format/</loc>
+    <loc>/functions/format/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/get/</loc>
+    <loc>/functions/get/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/getpage/</loc>
+    <loc>/functions/getpage/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/hasmenucurrent/</loc>
+    <loc>/functions/hasmenucurrent/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/ismenucurrent/</loc>
+    <loc>/functions/ismenucurrent/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/param/</loc>
+    <loc>/functions/param/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/render/</loc>
+    <loc>/functions/render/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/scratch/</loc>
+    <loc>/functions/scratch/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/unix/</loc>
+    <loc>/functions/unix/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/abslangurl/</loc>
+    <loc>/functions/abslangurl/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/absurl/</loc>
+    <loc>/functions/absurl/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/after/</loc>
+    <loc>/functions/after/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/apply/</loc>
+    <loc>/functions/apply/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/base64/</loc>
+    <loc>/functions/base64/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/chomp/</loc>
+    <loc>/functions/chomp/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/contribute/</loc>
+    <loc>/categories/contribute/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/countrunes/</loc>
+    <loc>/functions/countrunes/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/countwords/</loc>
+    <loc>/functions/countwords/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/dateformat/</loc>
+    <loc>/functions/dateformat/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/default/</loc>
+    <loc>/functions/default/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/delimit/</loc>
+    <loc>/functions/delimit/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/developer-tools/</loc>
+    <loc>/categories/developer-tools/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/dict/</loc>
+    <loc>/functions/dict/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/echoparam/</loc>
+    <loc>/functions/echoparam/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/emojify/</loc>
+    <loc>/functions/emojify/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/eq/</loc>
+    <loc>/functions/eq/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/findre/</loc>
+    <loc>/functions/findre/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/first/</loc>
+    <loc>/functions/first/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/getenv/</loc>
+    <loc>/functions/getenv/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/hasprefix/</loc>
+    <loc>/functions/hasprefix/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/highlight/</loc>
+    <loc>/functions/highlight/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/htmlescape/</loc>
+    <loc>/functions/htmlescape/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/htmlunescape/</loc>
+    <loc>/functions/htmlunescape/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/humanize/</loc>
+    <loc>/functions/humanize/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/i18n/</loc>
+    <loc>/functions/i18n/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/images/</loc>
+    <loc>/functions/images/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/in/</loc>
+    <loc>/functions/in/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/index-function/</loc>
+    <loc>/functions/index-function/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/int/</loc>
+    <loc>/functions/int/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/intersect/</loc>
+    <loc>/functions/intersect/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/isset/</loc>
+    <loc>/functions/isset/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/jsonify/</loc>
+    <loc>/functions/jsonify/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/numfmt/</loc>
+    <loc>/functions/numfmt/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/last/</loc>
+    <loc>/functions/last/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/len/</loc>
+    <loc>/functions/len/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/lower/</loc>
+    <loc>/functions/lower/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/markdownify/</loc>
+    <loc>/functions/markdownify/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/math/</loc>
+    <loc>/functions/math/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/md5/</loc>
+    <loc>/functions/md5/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/now/</loc>
+    <loc>/functions/now/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/partialcached/</loc>
+    <loc>/functions/partialcached/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/plainify/</loc>
+    <loc>/functions/plainify/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/pluralize/</loc>
+    <loc>/functions/pluralize/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/print/</loc>
+    <loc>/functions/print/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/printf/</loc>
+    <loc>/functions/printf/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/println/</loc>
+    <loc>/functions/println/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/project-organization/</loc>
+    <loc>/categories/project-organization/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/querify/</loc>
+    <loc>/functions/querify/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/range/</loc>
+    <loc>/functions/range/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/readdir/</loc>
+    <loc>/functions/readdir/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/readfile/</loc>
+    <loc>/functions/readfile/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/ref/</loc>
+    <loc>/functions/ref/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/rellangurl/</loc>
+    <loc>/functions/rellangurl/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/relref/</loc>
+    <loc>/functions/relref/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/relurl/</loc>
+    <loc>/functions/relurl/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/replace/</loc>
+    <loc>/functions/replace/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/replacere/</loc>
+    <loc>/functions/replacere/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/safecss/</loc>
+    <loc>/functions/safecss/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/safehtml/</loc>
+    <loc>/functions/safehtml/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/safehtmlattr/</loc>
+    <loc>/functions/safehtmlattr/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/safejs/</loc>
+    <loc>/functions/safejs/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/safeurl/</loc>
+    <loc>/functions/safeurl/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/seq/</loc>
+    <loc>/functions/seq/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/sha/</loc>
+    <loc>/functions/sha/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/shuffle/</loc>
+    <loc>/functions/shuffle/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/singularize/</loc>
+    <loc>/functions/singularize/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/slice/</loc>
+    <loc>/functions/slice/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/slicestr/</loc>
+    <loc>/functions/slicestr/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/sort/</loc>
+    <loc>/functions/sort/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/split/</loc>
+    <loc>/functions/split/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/string/</loc>
+    <loc>/functions/string/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/strings.trimleft/</loc>
+    <loc>/functions/strings.trimleft/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/strings.trimprefix/</loc>
+    <loc>/functions/strings.trimprefix/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/strings.trimright/</loc>
+    <loc>/functions/strings.trimright/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/strings.trimsuffix/</loc>
+    <loc>/functions/strings.trimsuffix/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/substr/</loc>
+    <loc>/functions/substr/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/time/</loc>
+    <loc>/functions/time/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/title/</loc>
+    <loc>/functions/title/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/trim/</loc>
+    <loc>/functions/trim/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/truncate/</loc>
+    <loc>/functions/truncate/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/union/</loc>
+    <loc>/functions/union/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/uniq/</loc>
+    <loc>/functions/uniq/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/upper/</loc>
+    <loc>/functions/upper/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/urlize/</loc>
+    <loc>/functions/urlize/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/where/</loc>
+    <loc>/functions/where/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/functions/with/</loc>
+    <loc>/functions/with/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/categories/about-hugo/</loc>
+    <loc>/categories/about-hugo/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
   <url>
-    <loc>macorama.github.io/news/</loc>
+    <loc>/news/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   

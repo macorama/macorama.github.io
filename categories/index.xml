@@ -2,152 +2,152 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Learnosity</title>
-    <link>macorama.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Learnosity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="macorama.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>macorama.github.io/categories/blog/</link>
+      <link>/categories/blog/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/blog/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>functions</title>
-      <link>macorama.github.io/categories/functions/</link>
+      <link>/categories/functions/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/functions/</guid>
+      <guid>/categories/functions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>asset management</title>
-      <link>macorama.github.io/categories/asset-management/</link>
+      <link>/categories/asset-management/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/asset-management/</guid>
+      <guid>/categories/asset-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>content management</title>
-      <link>macorama.github.io/categories/content-management/</link>
+      <link>/categories/content-management/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/content-management/</guid>
+      <guid>/categories/content-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fundamentals</title>
-      <link>macorama.github.io/categories/fundamentals/</link>
+      <link>/categories/fundamentals/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/fundamentals/</guid>
+      <guid>/categories/fundamentals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>getting started</title>
-      <link>macorama.github.io/categories/getting-started/</link>
+      <link>/categories/getting-started/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/getting-started/</guid>
+      <guid>/categories/getting-started/</guid>
       <description></description>
     </item>
     
     <item>
       <title>variables and params</title>
-      <link>macorama.github.io/categories/variables-and-params/</link>
+      <link>/categories/variables-and-params/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/variables-and-params/</guid>
+      <guid>/categories/variables-and-params/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo modules</title>
-      <link>macorama.github.io/categories/hugo-modules/</link>
+      <link>/categories/hugo-modules/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/hugo-modules/</guid>
+      <guid>/categories/hugo-modules/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hosting and deployment</title>
-      <link>macorama.github.io/categories/hosting-and-deployment/</link>
+      <link>/categories/hosting-and-deployment/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/hosting-and-deployment/</guid>
+      <guid>/categories/hosting-and-deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>troubleshooting</title>
-      <link>macorama.github.io/categories/troubleshooting/</link>
+      <link>/categories/troubleshooting/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/troubleshooting/</guid>
+      <guid>/categories/troubleshooting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maintenance</title>
-      <link>macorama.github.io/categories/maintenance/</link>
+      <link>/categories/maintenance/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/maintenance/</guid>
+      <guid>/categories/maintenance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>macorama.github.io/categories/templates/</link>
+      <link>/categories/templates/</link>
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/templates/</guid>
+      <guid>/categories/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contribute</title>
-      <link>macorama.github.io/categories/contribute/</link>
+      <link>/categories/contribute/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/contribute/</guid>
+      <guid>/categories/contribute/</guid>
       <description></description>
     </item>
     
     <item>
       <title>developer tools</title>
-      <link>macorama.github.io/categories/developer-tools/</link>
+      <link>/categories/developer-tools/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/developer-tools/</guid>
+      <guid>/categories/developer-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project organization</title>
-      <link>macorama.github.io/categories/project-organization/</link>
+      <link>/categories/project-organization/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/project-organization/</guid>
+      <guid>/categories/project-organization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about hugo</title>
-      <link>macorama.github.io/categories/about-hugo/</link>
+      <link>/categories/about-hugo/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/categories/about-hugo/</guid>
+      <guid>/categories/about-hugo/</guid>
       <description></description>
     </item>
     

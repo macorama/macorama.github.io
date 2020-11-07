@@ -1,31 +1,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learnosity – The world’s fastest framework for building websites</title>
-    <link>macorama.github.io/</link>
+    <link>/</link>
     <description>Recent Hugo news from gohugo.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <image>
-      <url>macorama.github.io/img/hugo.png</url>
+      <url>img/hugo.png</url>
       <title>GoHugo.io</title>
-      <link>macorama.github.io/</link>
+      <link>/</link>
     </image>
     
-	<atom:link href="macorama.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News: How the Remote Learning Pivot Sparked Innovation in Education</title>
-      <link>macorama.github.io/news/lets-celebrate-hugos-5th-birthday/</link>
+      <link>/news/lets-celebrate-hugos-5th-birthday/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/news/lets-celebrate-hugos-5th-birthday/</guid>
+      <guid>/news/lets-celebrate-hugos-5th-birthday/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/news/lets-celebrate-hugos-5th-birthday/featured_hu30cb938a182ebd06b50ed15d006d8f64_179291_640x0_resize_catmullrom_2.png" width="640" height="642"/>]]>
+        <![CDATA[<img src="/news/lets-celebrate-hugos-5th-birthday/featured_hu30cb938a182ebd06b50ed15d006d8f64_179291_640x0_resize_catmullrom_2.png" width="640" height="642"/>]]>
         
         &lt;p&gt;&lt;em&gt;By Bjørn Erik Pedersen (&lt;a href=&#34;https://twitter.com/bepsays&#34;&gt;@bepsays&lt;/a&gt; / &lt;a href=&#34;https://github.com/bep&#34;&gt;@bep&lt;/a&gt;), Hugo Lead&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Five years ago today, &lt;a href=&#34;https://github.com/spf13/&#34;&gt;Steve Francia&lt;/a&gt; made his &lt;a href=&#34;https://github.com/gohugoio/hugo/commit/50a1d6f3f155ab837310e00ffb309a9199773c73&#34;&gt;first commit&lt;/a&gt; on the Hugo project: &amp;ldquo;Hugo: A Fast and Flexible Static Site Generator built with love by spf13 in GoLang&amp;rdquo;.&lt;/strong&gt;&lt;/p&gt;
@@ -39,7 +39,7 @@
 
 
 &lt;figure style=&#34;padding: 0.25rem; margin: 2rem 0; background-color: #cccc&#34;&gt;
-	&lt;img style=&#34;max-width: 100%; width: auto; height: auto;&#34; src=&#34;macorama.github.io/macorama.github.io/news/lets-celebrate-hugos-5th-birthday/sunset-get_hud0ada96a3532fb27dcd0de96bcce0679_358844_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img style=&#34;max-width: 100%; width: auto; height: auto;&#34; src=&#34;/news/lets-celebrate-hugos-5th-birthday/sunset-get_hud0ada96a3532fb27dcd0de96bcce0679_358844_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	&lt;figcaption&gt;
 	&lt;small&gt;
 	
@@ -64,7 +64,7 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 
 
 &lt;figure style=&#34;padding: 0.25rem; margin: 2rem 0; background-color: #cccc&#34;&gt;
-	&lt;img style=&#34;max-width: 100%; width: auto; height: auto;&#34; src=&#34;macorama.github.io/macorama.github.io/news/lets-celebrate-hugos-5th-birthday/graph-stars_hu169ba15a8bcaf4ddd6a5a1aa8505c448_15599_600x400_fit_catmullrom_2.png&#34; width=&#34;600&#34; height=&#34;370&#34;&gt;
+	&lt;img style=&#34;max-width: 100%; width: auto; height: auto;&#34; src=&#34;/news/lets-celebrate-hugos-5th-birthday/graph-stars_hu169ba15a8bcaf4ddd6a5a1aa8505c448_15599_600x400_fit_catmullrom_2.png&#34; width=&#34;600&#34; height=&#34;370&#34;&gt;
 	&lt;figcaption&gt;
 	&lt;small&gt;
 	
@@ -98,13 +98,13 @@ Number of GitHub stars in relation to the Hugo release dates.
 &lt;dd&gt;&lt;a href=&#34;https://github.com/russross/blackfriday&#34;&gt;Blackfriday&lt;/a&gt; is the main content renderer in Hugo. It has been rewritten to a more flexible architecture, which should allow us to fix some of the current shortcomings.&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;p&gt;We should be able to create a better and easier-to-use data structure from the rendered content: Summary, the content after the summary, being able to range over the footnotes and the ToC. Having ToC as a proper data structure also opens up a few other potential uses; using it as an index in &lt;a href=&#34;https://gohugo.io/content-management/related/&#34;&gt;Related Content&lt;/a&gt; would be one example.&lt;/p&gt;
-&lt;p&gt;This should also enable us to &lt;em&gt;do more&lt;/em&gt; with &lt;a href=&#34;macorama.github.io/templates/output-formats&#34;&gt;Custom Output Formats&lt;/a&gt;. It is already very powerful. GettyPubs are using it in &lt;a href=&#34;https://github.com/gettypubs/quire&#34;&gt;Quire&lt;/a&gt; to build &lt;a href=&#34;http://www.getty.edu/publications/digital/digitalpubs.html&#34;&gt;beautiful multi-platform publications&lt;/a&gt;. But it can be improved. For rendering of content files, you are currently restricted to HTML. It would be great if we could configure alternative renderers per output format, such as LaTeX and EPUB.&lt;/p&gt;
+&lt;p&gt;This should also enable us to &lt;em&gt;do more&lt;/em&gt; with &lt;a href=&#34;/templates/output-formats&#34;&gt;Custom Output Formats&lt;/a&gt;. It is already very powerful. GettyPubs are using it in &lt;a href=&#34;https://github.com/gettypubs/quire&#34;&gt;Quire&lt;/a&gt; to build &lt;a href=&#34;http://www.getty.edu/publications/digital/digitalpubs.html&#34;&gt;beautiful multi-platform publications&lt;/a&gt;. But it can be improved. For rendering of content files, you are currently restricted to HTML. It would be great if we could configure alternative renderers per output format, such as LaTeX and EPUB.&lt;/p&gt;
 &lt;p&gt;Related to this is also to add a configurable &amp;ldquo;Markdown URL rewriter&amp;rdquo;, which should make more portable URLs in Markdown, e.g. image links that work both when viewed on GitHub and your published site.&lt;/p&gt;
 &lt;h3 id=&#34;the-road-to-the-future&#34;&gt;The Road to the Future &lt;a class=&#34;header-link&#34; href=&#34;#the-road-to-the-future&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;These are the items that first come to mind if you ask me to think even further ahead:&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;Dependency manager for Theme Components&lt;/dt&gt;
-&lt;dd&gt;In Hugo &lt;code&gt;0.42&lt;/code&gt; we added &lt;a href=&#34;macorama.github.io/themes/theme-components/&#34;&gt;Theme Components&lt;/a&gt; and Theme Inheritance. With SCSS support in Hugo &lt;code&gt;0.43&lt;/code&gt;, which also follows the same project/themes precedence order (add &lt;code&gt;_variables.scss&lt;/code&gt; to your project, configure SASS colour variables in &lt;code&gt;config.toml&lt;/code&gt;), we have a solid foundation for creating easy to use and extensible themes. But we are missing some infrastructure around this. We have a site with 235+ &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;themes&lt;/a&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; listed, but you currently need to do some added work to get the theme up and running for your site. In the Go world, we don&amp;rsquo;t have NPM to use, which is a curse and a blessing, but I have some ideas about building a simple dependency manager into Hugo, modelled after how Go is doing it (&lt;code&gt;hugo install&lt;/code&gt;). You should be able to configure what theme and theme components you want to use, and Hugo should handle the installation of the correct versions. This should make it easier for the user, but it would also enable community driven and even commercial &amp;ldquo;theme stores&amp;rdquo;.&lt;/dd&gt;
+&lt;dd&gt;In Hugo &lt;code&gt;0.42&lt;/code&gt; we added &lt;a href=&#34;/themes/theme-components/&#34;&gt;Theme Components&lt;/a&gt; and Theme Inheritance. With SCSS support in Hugo &lt;code&gt;0.43&lt;/code&gt;, which also follows the same project/themes precedence order (add &lt;code&gt;_variables.scss&lt;/code&gt; to your project, configure SASS colour variables in &lt;code&gt;config.toml&lt;/code&gt;), we have a solid foundation for creating easy to use and extensible themes. But we are missing some infrastructure around this. We have a site with 235+ &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;themes&lt;/a&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; listed, but you currently need to do some added work to get the theme up and running for your site. In the Go world, we don&amp;rsquo;t have NPM to use, which is a curse and a blessing, but I have some ideas about building a simple dependency manager into Hugo, modelled after how Go is doing it (&lt;code&gt;hugo install&lt;/code&gt;). You should be able to configure what theme and theme components you want to use, and Hugo should handle the installation of the correct versions. This should make it easier for the user, but it would also enable community driven and even commercial &amp;ldquo;theme stores&amp;rdquo;.&lt;/dd&gt;
 &lt;/dl&gt;
 
 
@@ -114,7 +114,7 @@ Number of GitHub stars in relation to the Hugo release dates.
 
 
 &lt;figure style=&#34;padding: 0.25rem; margin: 2rem 0; background-color: #cccc&#34;&gt;
-	&lt;img style=&#34;max-width: 100%; width: auto; height: auto;&#34; src=&#34;macorama.github.io/macorama.github.io/news/lets-celebrate-hugos-5th-birthday/graph-themes_hu25707bee0ec3007199f71bb29226f30c_16956_600x400_fit_catmullrom_2.png&#34; width=&#34;600&#34; height=&#34;370&#34;&gt;
+	&lt;img style=&#34;max-width: 100%; width: auto; height: auto;&#34; src=&#34;/news/lets-celebrate-hugos-5th-birthday/graph-themes_hu25707bee0ec3007199f71bb29226f30c_16956_600x400_fit_catmullrom_2.png&#34; width=&#34;600&#34; height=&#34;370&#34;&gt;
 	&lt;figcaption&gt;
 	&lt;small&gt;
 	
@@ -153,17 +153,17 @@ Number of Hugo themes on themes.gohugo.io in relation to the Hugo release dates.
     
     <item>
       <title>News: Want to Enter a School Building? Get Scanned First</title>
-      <link>macorama.github.io/news/http2-server-push-in-hugo/</link>
+      <link>/news/http2-server-push-in-hugo/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/news/http2-server-push-in-hugo/</guid>
+      <guid>/news/http2-server-push-in-hugo/</guid>
       <description>
         
         
         &lt;p&gt;&lt;strong&gt;Netlify&lt;/strong&gt; recently announced support for &lt;a href=&#34;https://www.netlify.com/blog/2017/07/18/http/2-server-push-on-netlify/&#34;&gt;HTTP/2 server push&lt;/a&gt;, and we have now added it to the &lt;strong&gt;gohugo.io&lt;/strong&gt; sites for the main &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JS&lt;/code&gt; bundles, along with server-side 301 redirect support.&lt;/p&gt;
 &lt;p&gt;If you navigate to &lt;a href=&#34;https://gohugo.io&#34;&gt;https://gohugo.io&lt;/a&gt; and look in the Chrome developer network console, you should now see &lt;code&gt;Push&lt;/code&gt; as the new source (&amp;ldquo;Initiator&amp;rdquo;) for the &lt;code&gt;CSS&lt;/code&gt; and &lt;code&gt;JSS&lt;/code&gt;:&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;macorama.github.io/images/blog/hugo-http2-push.png&#34;
+    &lt;img src=&#34;/images/blog/hugo-http2-push.png&#34;
          alt=&#34;Network log for https://gohugo.io&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Network log for &lt;a href=&#34;https://gohugo.io&#34;&gt;https://gohugo.io&lt;/a&gt;&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -171,7 +171,7 @@ Number of Hugo themes on themes.gohugo.io in relation to the Hugo release dates.
 
 &lt;p&gt;&lt;strong&gt;Setting up this in Hugo was easy:&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-configure-netlify-output-formats&#34;&gt;1. Configure Netlify Output Formats &lt;a class=&#34;header-link&#34; href=&#34;#1-configure-netlify-output-formats&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Add a new custom media type and two new output formats to &lt;code&gt;config.toml&lt;/code&gt;. For more on output formats in Hugo, see &lt;a href=&#34;macorama.github.io/templates/output-formats/&#34;&gt;Custom Output Formats&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Add a new custom media type and two new output formats to &lt;code&gt;config.toml&lt;/code&gt;. For more on output formats in Hugo, see &lt;a href=&#34;/templates/output-formats/&#34;&gt;Custom Output Formats&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;outputs&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
 &lt;span class=&#34;nv&#34;&gt;home&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;HTML&amp;#34;&lt;/span&gt;, &lt;span class=&#34;s2&#34;&gt;&amp;#34;RSS&amp;#34;&lt;/span&gt;, &lt;span class=&#34;s2&#34;&gt;&amp;#34;REDIR&amp;#34;&lt;/span&gt;, &lt;span class=&#34;s2&#34;&gt;&amp;#34;HEADERS&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
 
@@ -211,22 +211,22 @@ Number of Hugo themes on themes.gohugo.io in relation to the Hugo release dates.
 &lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt;  . &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;printf&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;%-35s&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;	&lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;$p&lt;/span&gt;.RelPermalink -&lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
 &lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt; end -&lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
 &lt;span class=&#34;o&#34;&gt;{{&lt;/span&gt;- end -&lt;span class=&#34;o&#34;&gt;}}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The template above creates 301 redirects for your &lt;a href=&#34;macorama.github.io/content-management/urls/#aliases&#34;&gt;aliases&lt;/a&gt;, so you will probably want to turn off aliases in your &lt;code&gt;config.toml&lt;/code&gt;: &lt;code&gt;disableAliases = true&lt;/code&gt;.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The template above creates 301 redirects for your &lt;a href=&#34;/content-management/urls/#aliases&#34;&gt;aliases&lt;/a&gt;, so you will probably want to turn off aliases in your &lt;code&gt;config.toml&lt;/code&gt;: &lt;code&gt;disableAliases = true&lt;/code&gt;.&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title>Showcase: Digital.gov</title>
-      <link>macorama.github.io/showcase/digitalgov/</link>
+      <link>/showcase/digitalgov/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/digitalgov/</guid>
+      <guid>/showcase/digitalgov/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/digitalgov/featured_hu45beff20946cd0e416030040cf926cad_65077_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/digitalgov/featured_hu45beff20946cd0e416030040cf926cad_65077_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;For over a decade, Digital.gov has provided guidance, training, and community support to the people who are responsible for delivering digital services in the U.S. government. Essentially, it is a place where people can find examples of problems being solved in government, and get links to the tools and resources they need.&lt;/p&gt;
 &lt;p&gt;Through collaboration in our communities of practice, Digital.gov is a window into the people who work in technology in government and the challenges they face making digital services stronger and more effective. &lt;a href=&#34;https://digital.gov/2019/12/19/a-new-digitalgov/&#34;&gt;Read more about our site »&lt;/a&gt;&lt;/p&gt;
@@ -278,15 +278,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: KeyCDN</title>
-      <link>macorama.github.io/showcase/keycdn/</link>
+      <link>/showcase/keycdn/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/keycdn/</guid>
+      <guid>/showcase/keycdn/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/keycdn/featured_hub7f38531767be8be63ac710821ebd35e_358740_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/keycdn/featured_hub7f38531767be8be63ac710821ebd35e_358740_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;At KeyCDN one of our primary focuses is on performance. With speed being ingrained in our DNA we knew from the start that we must use a fast static website generator that could meet our requirements. When evaluating the right solution, Hugo met our requirements and we looked no further as it was the fastest and most flexible.&lt;/p&gt;
 &lt;h2 id=&#34;why-we-chose-hugo&#34;&gt;Why we chose Hugo &lt;a class=&#34;header-link&#34; href=&#34;#why-we-chose-hugo&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
@@ -310,15 +310,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: Aether</title>
-      <link>macorama.github.io/showcase/aether/</link>
+      <link>/showcase/aether/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/aether/</guid>
+      <guid>/showcase/aether/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/aether/featured_hu087b0e6f87446792599d3d3535cdd374_275219_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/aether/featured_hu087b0e6f87446792599d3d3535cdd374_275219_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;To say that this website, our main online presence, needed to do a lot would be an understatement.&lt;/p&gt;
 &lt;p&gt;Our site is home to both &lt;em&gt;Aether&lt;/em&gt; and &lt;em&gt;Aether Pro&lt;/em&gt;, our &lt;strong&gt;knowledgebase for each product&lt;/strong&gt;, a &lt;strong&gt;server for static assets that we use in our emails&lt;/strong&gt;, the &lt;strong&gt;interactive sign-up flows&lt;/strong&gt;, &lt;strong&gt;payments client&lt;/strong&gt;, &lt;strong&gt;downloads provider&lt;/strong&gt;, and even a &lt;strong&gt;mechanism for delivering auto-update notifications&lt;/strong&gt; to our native clients. We are using a single Hugo site for all these — it&amp;rsquo;s not a static site generator for us, it&amp;rsquo;s the core framework at the heart of our &lt;em&gt;entire&lt;/em&gt; web front-end.&lt;/p&gt;
@@ -338,15 +338,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: Hapticmedia Blog</title>
-      <link>macorama.github.io/showcase/hapticmedia/</link>
+      <link>/showcase/hapticmedia/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/hapticmedia/</guid>
+      <guid>/showcase/hapticmedia/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/hapticmedia/featured_hu4e9c0830eabb70b93572090b79da0c5d_543922_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/hapticmedia/featured_hu4e9c0830eabb70b93572090b79da0c5d_543922_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;Our goal was to create a simple, effective and multilingual blog on &lt;a href=&#34;https://hapticmedia.fr/blog/en/3d-technology/&#34;&gt;3D technology&lt;/a&gt; that could be managed by a non-technical profile.&lt;/p&gt;
 &lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo? &lt;a class=&#34;header-link&#34; href=&#34;#why-hugo&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
@@ -374,15 +374,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: Bypass Censorship</title>
-      <link>macorama.github.io/showcase/bypasscensorship/</link>
+      <link>/showcase/bypasscensorship/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/bypasscensorship/</guid>
+      <guid>/showcase/bypasscensorship/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/bypasscensorship/featured_hu3be69425780460f51f7c2367ed0f80c1_180903_640x0_resize_catmullrom_2.png" width="640" height="533"/>]]>
+        <![CDATA[<img src="/showcase/bypasscensorship/featured_hu3be69425780460f51f7c2367ed0f80c1_180903_640x0_resize_catmullrom_2.png" width="640" height="533"/>]]>
         
         &lt;p&gt;The British Broadcasting Corporation (BBC) (UK), Deutsche Welle (DW) (Germany), France Médias Monde (FMM) (France), the U.S. Agency for Global Media (USAGM) (US) and the Open Technology Fund (OTF) (US) co-sponsor the Bypass Censorship website.&lt;/p&gt;
 &lt;p&gt;Websites of international news agencies are often blocked in many countries. In order to connect people to these sites, Bypass Censorship feature and recommend tools in the following languages: English, French, Spanish, Arabic, Farsi, Chinese, and Russian.&lt;/p&gt;
@@ -398,15 +398,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: PHARMASEAL</title>
-      <link>macorama.github.io/showcase/pharmaseal/</link>
+      <link>/showcase/pharmaseal/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/pharmaseal/</guid>
+      <guid>/showcase/pharmaseal/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/pharmaseal/featured-pharmaseal_hu0bb31f1d675c2396ecc2e224b6f519a6_769739_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/pharmaseal/featured-pharmaseal_hu0bb31f1d675c2396ecc2e224b6f519a6_769739_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;We wanted to shake the status quo with PHARMASEAL, opting for a fast and scalable website built with Hugo instead of slower monolithic systems the competitors were using.&lt;/p&gt;
 &lt;p&gt;We had two goals:&lt;/p&gt;
@@ -423,15 +423,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: fireship.io</title>
-      <link>macorama.github.io/showcase/fireship/</link>
+      <link>/showcase/fireship/</link>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/fireship/</guid>
+      <guid>/showcase/fireship/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/fireship/featured_hu3bba74627b7e233d29d5aecb29c8d0f1_136959_640x0_resize_catmullrom_2.png" width="640" height="321"/>]]>
+        <![CDATA[<img src="/showcase/fireship/featured_hu3bba74627b7e233d29d5aecb29c8d0f1_136959_640x0_resize_catmullrom_2.png" width="640" height="321"/>]]>
         
         &lt;p&gt;After careful consideration of JavaScript/JSX-based static site generators, it became clear that Hugo was the only tool capable of handling our project&amp;rsquo;s complex demands. Not only do we have multiple content formats and taxonomies, but we often need to customize the experience at a more granular level. The problems Hugo has solved for us include:&lt;/p&gt;
 &lt;ul&gt;
@@ -447,15 +447,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: Over</title>
-      <link>macorama.github.io/showcase/over/</link>
+      <link>/showcase/over/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/over/</guid>
+      <guid>/showcase/over/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/over/featured-over_hu096cafb8a4c371f6c5d5431b68c2978f_194841_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/over/featured-over_hu096cafb8a4c371f6c5d5431b68c2978f_194841_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;At Over we&amp;rsquo;re into creativity, and technology should not get in the way. We want it to be easy for everyone to create, and Hugo does the same for us. That&amp;rsquo;s one of the reasons many of us are fond of using it.&lt;/p&gt;
 &lt;p&gt;People from all disciplines contribute to our website, be it legal documentation, layout and design, recruiting, marketing and of course… engineering. Hugo allows us to do this with as little friction as possible. A lot of this comes down to Hugo being distributed as a single static binary. Copy, paste, run&amp;hellip; and you&amp;rsquo;re up and running!&lt;/p&gt;
@@ -468,15 +468,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: Cocoon &amp; Cosy</title>
-      <link>macorama.github.io/showcase/arolla-cocoon/</link>
+      <link>/showcase/arolla-cocoon/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/arolla-cocoon/</guid>
+      <guid>/showcase/arolla-cocoon/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/arolla-cocoon/featured-template_hu22aab819ab27e4f878d1ff0b7cf78050_451984_640x0_resize_catmullrom_2.png" width="640" height="353"/>]]>
+        <![CDATA[<img src="/showcase/arolla-cocoon/featured-template_hu22aab819ab27e4f878d1ff0b7cf78050_451984_640x0_resize_catmullrom_2.png" width="640" height="353"/>]]>
         
         &lt;p&gt;Swiss &lt;a href=&#34;https://www.camping-arolla.com&#34;&gt;Arolla campsite&lt;/a&gt; runs the highest campsite in Europe and I&amp;rsquo;m completely re-doing their actual Website with Hugo.&lt;/p&gt;
 &lt;p&gt;But they just launch a brand new offer (luxury tents with bed and fire oven), and we couldn&amp;rsquo;t wait for the proper new website for having this promoted: we needed the website up and running within 24h!&lt;/p&gt;
@@ -500,17 +500,17 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: Tomango</title>
-      <link>macorama.github.io/showcase/tomango/</link>
+      <link>/showcase/tomango/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/tomango/</guid>
+      <guid>/showcase/tomango/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/tomango/featured_hu7e8dbbadbe427cdae3bd5ec313fc9f75_143336_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/tomango/featured_hu7e8dbbadbe427cdae3bd5ec313fc9f75_143336_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
-        &lt;p&gt;Hugo is our static site generator (SSG) of choice. It&amp;rsquo;s &lt;strong&gt;really quick&lt;/strong&gt;. After using it on a number of &lt;a href=&#34;macorama.github.io/showcase/hartwell-insurance/&#34;&gt;client projects&lt;/a&gt;, it became clear that our new site &lt;em&gt;had&lt;/em&gt; to be built with Hugo.&lt;/p&gt;
+        &lt;p&gt;Hugo is our static site generator (SSG) of choice. It&amp;rsquo;s &lt;strong&gt;really quick&lt;/strong&gt;. After using it on a number of &lt;a href=&#34;/showcase/hartwell-insurance/&#34;&gt;client projects&lt;/a&gt;, it became clear that our new site &lt;em&gt;had&lt;/em&gt; to be built with Hugo.&lt;/p&gt;
 &lt;p&gt;The big benefit of an SSG is how it moves all the heavy lifting to the build time.&lt;/p&gt;
 &lt;p&gt;For example in WordPress, all the category pages are created at runtime, generating a lot of database queries. In Hugo, the paginated category pages are created at build time - so all the computational complexity is done once, and doesn&amp;rsquo;t impact the user at all.&lt;/p&gt;
 &lt;p&gt;Similarly, instead of running a live, or even a heavily cached Instagram feed that checked for new photos on page load, we used IFTTT to flip the feature to work performantly. I&amp;rsquo;ve &lt;a href=&#34;https://www.trysmudford.com/blog/making-the-static-dynamic-instagram-importer/&#34;&gt;written about it&lt;/a&gt; in detail on my blog but in essence: IFTTT sends a webhook to a Netlify Cloud Function every time a photo is uploaded. The function scrapes the photo and commits it to our GitHub repo which triggers a Hugo build on Netlify, deploying the site immediately!&lt;/p&gt;
@@ -523,15 +523,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: Flesland Flis AS</title>
-      <link>macorama.github.io/showcase/flesland-flis/</link>
+      <link>/showcase/flesland-flis/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/flesland-flis/</guid>
+      <guid>/showcase/flesland-flis/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/flesland-flis/featured_hue4fd3c0e7519777bd75019750a0f5391_309284_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/flesland-flis/featured_hue4fd3c0e7519777bd75019750a0f5391_309284_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;For &lt;strong&gt;Flesland Flis&lt;/strong&gt; I use a combination of &lt;strong&gt;Hugo, Forestry.io and Netlify&lt;/strong&gt;. Static Site Generators and Hugo has been on my radar for a long time, and with all the nice features released in Hugo the last years, it&amp;rsquo;s now my preferred solution for new clients. Also a huge thanks to the guys at &lt;a href=&#34;https://forestry.io&#34;&gt;Forestry.io&lt;/a&gt;, for making such a smooth CMS for Hugo.&lt;/p&gt;
 &lt;p&gt;The #1 reason why I love Hugo is the logic between content and layout, and of course the speed. Compared to solutions like Jekyll, Hugo is just better at all the stuff I value the most - speed, flexibility, theming and more.&lt;/p&gt;
@@ -546,15 +546,15 @@ Built in 32.427 seconds
     
     <item>
       <title>Showcase: Forestry.io</title>
-      <link>macorama.github.io/showcase/forestry/</link>
+      <link>/showcase/forestry/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/forestry/</guid>
+      <guid>/showcase/forestry/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/forestry/featured_hu77de7d99834fa13b854b7fc62e2912a7_227009_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/forestry/featured_hu77de7d99834fa13b854b7fc62e2912a7_227009_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;It was clear from the get-go that we had to go with a static site generator. Static sites are secure, performant, and give you 100% flexibility. At &lt;a href=&#34;https://forestry.io/&#34;&gt;Forestry.io&lt;/a&gt; we provide Content Management Solutions for websites built with static site generators, so we might be a little biased. The only question: Which static site generator was the right choice for us?&lt;/p&gt;
 &lt;h3 id=&#34;why-hugo&#34;&gt;Why Hugo? &lt;a class=&#34;header-link&#34; href=&#34;#why-hugo&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
@@ -594,23 +594,23 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
     
     <item>
       <title>Showcase: Let’s Encrypt</title>
-      <link>macorama.github.io/showcase/letsencrypt/</link>
+      <link>/showcase/letsencrypt/</link>
       <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/letsencrypt/</guid>
+      <guid>/showcase/letsencrypt/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/letsencrypt/featured_hu51cfa254cfc1fb105704d2cdd6ae4737_147459_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/letsencrypt/featured_hu51cfa254cfc1fb105704d2cdd6ae4737_147459_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
-        &lt;p&gt;The &lt;strong&gt;Let’s Encrypt website&lt;/strong&gt; has a common set of elements: A landing page and some other static info-pages, a document section, a blog, and a documentation section. Having it moved to Hugo was mostly motivated by a &lt;em&gt;simpler administration and Hugo&amp;rsquo;s &lt;a href=&#34;macorama.github.io/content-management/multilingual/&#34;&gt;multilingual support&lt;/a&gt;&lt;/em&gt;. They already serve HTTPS to more than 60 million domains, and having the documentation available in more languages will increase that reach.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+        &lt;p&gt;The &lt;strong&gt;Let’s Encrypt website&lt;/strong&gt; has a common set of elements: A landing page and some other static info-pages, a document section, a blog, and a documentation section. Having it moved to Hugo was mostly motivated by a &lt;em&gt;simpler administration and Hugo&amp;rsquo;s &lt;a href=&#34;/content-management/multilingual/&#34;&gt;multilingual support&lt;/a&gt;&lt;/em&gt;. They already serve HTTPS to more than 60 million domains, and having the documentation available in more languages will increase that reach.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The Let&amp;#39;s Encrypt website is now built with &lt;a href=&#34;https://twitter.com/GoHugoIO?ref_src=twsrc%5Etfw&#34;&gt;@GoHugoIO&lt;/a&gt;, easing management and giving us access to more features. Thanks to &lt;a href=&#34;https://twitter.com/domeneshop?ref_src=twsrc%5Etfw&#34;&gt;@domeneshop&lt;/a&gt; for supporting this work through a Let&amp;#39;s Encrypt sponsorship and to &lt;a href=&#34;https://twitter.com/bepsays?ref_src=twsrc%5Etfw&#34;&gt;@bepsays&lt;/a&gt; for the migration work!&lt;/p&gt;&amp;mdash; Let&amp;#39;s Encrypt (@letsencrypt) &lt;a href=&#34;https://twitter.com/letsencrypt/status/971755920639307777?ref_src=twsrc%5Etfw&#34;&gt;March 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;p&gt;I helped them port the site from Jekyll to Hugo. There are usually very few surprises doing this. I know Hugo very well, but working on sites with a history usually comes up with something new.&lt;/p&gt;
 &lt;p&gt;That site is bookmarked in many browsers, so preserving the URLs was a must. Hugo&amp;rsquo;s URL handling is very flexible, but there was one challenge. The website has a mix of standard and what we in Hugo call &lt;em&gt;ugly URLs&lt;/em&gt; (&lt;code&gt;https://letsencrypt.org/2017/12/07/looking-forward-to-2018.html&lt;/code&gt;). In Hugo this is handled automatically, and you can turn it on globally or per language. But before Hugo &lt;code&gt;0.33&lt;/code&gt; you could not configure it for parts of your site. You could set it manually for the relevant pages in front matter &amp;ndash; which is how it was done in Jekyll &amp;ndash; but that would be hard to manage, especially when you start to introduce translations. So, in &lt;a href=&#34;https://gohugo.io/news/0.33-relnotes/&#34;&gt;Hugo 0.33&lt;/a&gt; I added support for &lt;em&gt;ugly URLs&lt;/em&gt; per section and also &lt;code&gt;url&lt;/code&gt; set in front matter for list pages (&lt;code&gt;https://letsencrypt.org/blog/&lt;/code&gt;).&lt;/p&gt;
-&lt;p&gt;The lessons learned from this also lead to &lt;a href=&#34;macorama.github.io/content-management/multilingual/#disable-a-language&#34;&gt;disableLanguages&lt;/a&gt; in Hugo &lt;code&gt;0.34&lt;/code&gt; (a way to turn off languages during translation). And I also registered &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4463&#34;&gt;this issue&lt;/a&gt;. Once fixed it will make it easier to handle partially translated sites.&lt;/p&gt;
+&lt;p&gt;The lessons learned from this also lead to &lt;a href=&#34;/content-management/multilingual/#disable-a-language&#34;&gt;disableLanguages&lt;/a&gt; in Hugo &lt;code&gt;0.34&lt;/code&gt; (a way to turn off languages during translation). And I also registered &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/4463&#34;&gt;this issue&lt;/a&gt;. Once fixed it will make it easier to handle partially translated sites.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -625,15 +625,15 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
     
     <item>
       <title>Showcase: 1Password Support</title>
-      <link>macorama.github.io/showcase/1password-support/</link>
+      <link>/showcase/1password-support/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/1password-support/</guid>
+      <guid>/showcase/1password-support/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/1password-support/featured_hu870838c23243880857c2e418dd7ac099_165718_640x0_resize_catmullrom_2.png" width="640" height="319"/>]]>
+        <![CDATA[<img src="/showcase/1password-support/featured_hu870838c23243880857c2e418dd7ac099_165718_640x0_resize_catmullrom_2.png" width="640" height="319"/>]]>
         
         &lt;p&gt;At 1Password, we used to go through a different documentation platform every month: blog engines, ebooks, wikis, site generators written in Ruby and JavaScript. Each was inadequate in its own special way. Then we found &lt;strong&gt;Hugo&lt;/strong&gt;. We made one last switch, and we&amp;rsquo;re glad we did.&lt;/p&gt;
 &lt;h3 id=&#34;not-all-static-site-generators-are-created-equal&#34;&gt;Not all static site generators are created equal &lt;a class=&#34;header-link&#34; href=&#34;#not-all-static-site-generators-are-created-equal&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
@@ -650,7 +650,7 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
 &lt;li&gt;&lt;a href=&#34;https://support.1password.com&#34;&gt;1Password Support&lt;/a&gt; uses Hugo with a custom theme. It shares styles and some template code with &lt;a href=&#34;https://1password.com&#34;&gt;1Password.com&lt;/a&gt;, which we also moved to Hugo in 2016.&lt;/li&gt;
 &lt;li&gt;Code and articles live in a private GitHub repository, which is deployed to a static content server using Git hooks.&lt;/li&gt;
 &lt;li&gt;Writers build and preview the site on their computers and contribute content using pull requests.&lt;/li&gt;
-&lt;li&gt;We use Hugo&amp;rsquo;s &lt;a href=&#34;macorama.github.io/content-management/multilingual/&#34;&gt;multilingual support&lt;/a&gt; to build the site in English, Spanish, French, Italian, German, and Russian. With the help of Hugo, 1Password Support became our very first site in multiple languages.&lt;/li&gt;
+&lt;li&gt;We use Hugo&amp;rsquo;s &lt;a href=&#34;/content-management/multilingual/&#34;&gt;multilingual support&lt;/a&gt; to build the site in English, Spanish, French, Italian, German, and Russian. With the help of Hugo, 1Password Support became our very first site in multiple languages.&lt;/li&gt;
 &lt;li&gt;Our &lt;a href=&#34;https://support.1password.com/contact&#34;&gt;contact form&lt;/a&gt; is a single-page React app. We were able to integrate it with Hugo seamlessly thanks to its support for static files.&lt;/li&gt;
 &lt;li&gt;The one part of the support site which is not static is our search engine, which we developed with Elasticsearch and host on AWS.&lt;/li&gt;
 &lt;/ul&gt;
@@ -660,15 +660,15 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
     
     <item>
       <title>Showcase: StackImpact</title>
-      <link>macorama.github.io/showcase/stackimpact/</link>
+      <link>/showcase/stackimpact/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/stackimpact/</guid>
+      <guid>/showcase/stackimpact/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/stackimpact/featured_hu863cdba7b6e18bb95f64289a25912f5c_153794_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/stackimpact/featured_hu863cdba7b6e18bb95f64289a25912f5c_153794_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;After gradually handing over the control of our website to WordPress plugins, we realized that we needed to act.&lt;/p&gt;
 &lt;p&gt;Static web sites have natural advantages such as security, performance and content versioning (e.g. with Git). Static site generators such as Hugo made static websites cool again. Importantly, the best practices of software development (e.g. peer reviews, multi-stage deployments, rollbacks) can now be easily applied to websites.&lt;/p&gt;
@@ -681,15 +681,15 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
     
     <item>
       <title>Showcase: Quiply Employee Communications App</title>
-      <link>macorama.github.io/showcase/quiply-employee-communications-app/</link>
+      <link>/showcase/quiply-employee-communications-app/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/quiply-employee-communications-app/</guid>
+      <guid>/showcase/quiply-employee-communications-app/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/quiply-employee-communications-app/featured_hua0e0d1ed0f0bc15921e78476b0c86c95_631206_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/quiply-employee-communications-app/featured_hua0e0d1ed0f0bc15921e78476b0c86c95_631206_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;With the launch of our Employee Communications app Quiply we created a very simple and static one-page website to showcase our product.&lt;/p&gt;
 &lt;p&gt;As our customer base and demand for marketing and communication started to grow, we needed a solution to easily grow and extend the contents of our web presence. As we do not have the need to serve dynamic content, we decided to use a static site generator. Amongst a couple of others, we tried Hugo and it became immediately clear that we&amp;rsquo;d use Hugo going forward as it compiles super-fast, is intuitive to use and offers all the features we need.&lt;/p&gt;
@@ -701,15 +701,15 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
     
     <item>
       <title>Showcase: Linode Docs</title>
-      <link>macorama.github.io/showcase/linode/</link>
+      <link>/showcase/linode/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/linode/</guid>
+      <guid>/showcase/linode/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/linode/featured_hu61409040ff547ff1513ae0ebae4096c4_90149_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/linode/featured_hu61409040ff547ff1513ae0ebae4096c4_90149_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;The documentation team at Linode has been writing guides since 2009, with the goal of helping new and experienced Linux users find the best tools and get the most out of their systems.&lt;/p&gt;
 &lt;p&gt;As our library grew into thousands of guides, we needed a fast static site generator with intuitive templating and the flexibility to extend Markdown without constantly writing HTML and CSS.&lt;/p&gt;
@@ -721,15 +721,15 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
     
     <item>
       <title>Showcase: Hartwell Insurance</title>
-      <link>macorama.github.io/showcase/hartwell-insurance/</link>
+      <link>/showcase/hartwell-insurance/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/hartwell-insurance/</guid>
+      <guid>/showcase/hartwell-insurance/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/hartwell-insurance/featured_hu642e730c6f819b15fc6ebbaa25b0243f_446603_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/hartwell-insurance/featured_hu642e730c6f819b15fc6ebbaa25b0243f_446603_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;We’ve just launched a shiny new website for &lt;a href=&#34;https://www.hartwell-insurance.com/&#34;&gt;Hartwell Insurance&lt;/a&gt; – I’m really proud of it. It was tackled in a different way to most previous Tomango site builds, using some fancy new tools and some vintage web standards.&lt;/p&gt;
 &lt;p&gt;It’s a multi-page, single-page (!) website written in Hugo, a static site generator built with performance as a first-class feature. &lt;em&gt;I’ve outlined a load of benefits to Hugo &amp;amp; static sites &lt;a href=&#34;https://why-static.netlify.com/&#34;&gt;here&lt;/a&gt;, in case you’re interested.&lt;/em&gt;&lt;/p&gt;
@@ -767,15 +767,15 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
     
     <item>
       <title>Showcase: Pace Revenue Management</title>
-      <link>macorama.github.io/showcase/pace-revenue-management/</link>
+      <link>/showcase/pace-revenue-management/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/pace-revenue-management/</guid>
+      <guid>/showcase/pace-revenue-management/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/pace-revenue-management/featured_hu143b6afebcd8780a08aa0a9f8e95dd02_298908_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/pace-revenue-management/featured_hu143b6afebcd8780a08aa0a9f8e95dd02_298908_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;From the beginning, at Pace, we were focused on solving customer needs and didn&amp;rsquo;t want to over-engineer our marketing or sales. At the same time we didn&amp;rsquo;t want to lock ourselves into a WordPress, Squarespace or the like.&lt;/p&gt;
 &lt;p&gt;The ideal was a fast, simple, static site builder. When we came across Hugo we were blown away. Being a European company we wanted to be multi-lingual from the get-go and allow multiple team-members to collaborate and own their content. We also felt that a tech-company in 2018 should be capable of hosting its own blog in a simple way.&lt;/p&gt;
@@ -789,15 +789,15 @@ Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
     
     <item>
       <title>Showcase: Hugo ShowcaseShowcase Template</title>
-      <link>macorama.github.io/showcase/template/</link>
+      <link>/showcase/template/</link>
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/showcase/template/</guid>
+      <guid>/showcase/template/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/macorama.github.io/showcase/template/featured-template_hu2f0d11388f944348b232a431caeb965b_41270_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/template/featured-template_hu2f0d11388f944348b232a431caeb965b_41270_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
         
         &lt;p&gt;Have a &lt;strong&gt;notable Hugo site&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt;? We would love to feature it in this &lt;strong&gt;Showcase Section&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We would really appreciate if you could:&lt;/p&gt;

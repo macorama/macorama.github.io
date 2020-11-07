@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get Started on Learnosity</title>
-    <link>macorama.github.io/milestones/</link>
+    <link>/milestones/</link>
     <description>Recent content in Get Started on Learnosity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="macorama.github.io/milestones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/milestones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kindergarten</title>
-      <link>macorama.github.io/milestones/kindergarten/</link>
+      <link>/milestones/kindergarten/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/kindergarten/</guid>
+      <guid>/milestones/kindergarten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade 1</title>
-      <link>macorama.github.io/milestones/grade1/</link>
+      <link>/milestones/grade1/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/grade1/</guid>
+      <guid>/milestones/grade1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade 2</title>
-      <link>macorama.github.io/milestones/grade2/</link>
+      <link>/milestones/grade2/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/grade2/</guid>
+      <guid>/milestones/grade2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade 3</title>
-      <link>macorama.github.io/milestones/grade3/</link>
+      <link>/milestones/grade3/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/grade3/</guid>
+      <guid>/milestones/grade3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade 4</title>
-      <link>macorama.github.io/milestones/grade4/</link>
+      <link>/milestones/grade4/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/grade4/</guid>
+      <guid>/milestones/grade4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade 5</title>
-      <link>macorama.github.io/milestones/grade5/</link>
+      <link>/milestones/grade5/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/grade5/</guid>
+      <guid>/milestones/grade5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Singapore Math</title>
-      <link>macorama.github.io/milestones/directory-structure/</link>
+      <link>/milestones/directory-structure/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/directory-structure/</guid>
+      <guid>/milestones/directory-structure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beast Academy</title>
-      <link>macorama.github.io/milestones/code-toggle/</link>
+      <link>/milestones/code-toggle/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/code-toggle/</guid>
+      <guid>/milestones/code-toggle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saxon Math</title>
-      <link>macorama.github.io/milestones/configuration/</link>
+      <link>/milestones/configuration/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/configuration/</guid>
+      <guid>/milestones/configuration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Russian Math</title>
-      <link>macorama.github.io/milestones/configuration-markup/</link>
+      <link>/milestones/configuration-markup/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/configuration-markup/</guid>
+      <guid>/milestones/configuration-markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math Mammoth</title>
-      <link>macorama.github.io/milestones/external-learning-resources/</link>
+      <link>/milestones/external-learning-resources/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>macorama.github.io/milestones/external-learning-resources/</guid>
+      <guid>/milestones/external-learning-resources/</guid>
       <description>Books  Hugo In Action  
 Hugo in Action is a step-by-step guide to using Hugo to create static websites. Working with a complete example website and source code samples, you’ll learn how to build and host a low-maintenance, high-performance site that will wow your users and stay stable without relying on a third-party server.
 Hugo In Action Home Page

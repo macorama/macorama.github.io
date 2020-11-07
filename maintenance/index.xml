@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcasts for children on Learnosity</title>
-    <link>macorama.github.io/maintenance/</link>
+    <link>/maintenance/</link>
     <description>Recent content in Podcasts for children on Learnosity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="macorama.github.io/maintenance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="/maintenance/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
