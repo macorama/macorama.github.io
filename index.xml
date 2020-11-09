@@ -47,101 +47,45 @@
     </item>
     
     <item>
-      <title>Showcase: Forestry.io</title>
-      <link>/showcase/forestry/</link>
+      <title>Showcase: Khan Academy</title>
+      <link>/showcase/khanacademy/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/showcase/forestry/</guid>
+      <guid>/showcase/khanacademy/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/showcase/forestry/featured_hu77de7d99834fa13b854b7fc62e2912a7_227009_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/khanacademy/featured_hu2b81a55b643f1d555b04e5dd081f11c2_4675_640x0_resize_catmullrom_2.png" width="640" height="336"/>]]>
         
-        &lt;p&gt;It was clear from the get-go that we had to go with a static site generator. Static sites are secure, performant, and give you 100% flexibility. At &lt;a href=&#34;https://forestry.io/&#34;&gt;Forestry.io&lt;/a&gt; we provide Content Management Solutions for websites built with static site generators, so we might be a little biased. The only question: Which static site generator was the right choice for us?&lt;/p&gt;
-&lt;h3 id=&#34;why-hugo&#34;&gt;Why Hugo? &lt;a class=&#34;header-link&#34; href=&#34;#why-hugo&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;In our early research we looked at Ionic’s &lt;a href=&#34;https://github.com/ionic-team/ionic&#34;&gt;site&lt;/a&gt; to get some inspiration. They used Jekyll to build their website. While Jekyll is a great generator, the build times for larger sites can be painfully slow. With more than 150 pages plus many custom configurations and add-ons, our website doesn’t fall into the low-volume category anymore. Our developers want a smooth experience when working on the website and our content editors need the ability to preview content quickly. In short, we need our builds to be lightning fast.&lt;/p&gt;
-&lt;p&gt;We knew Hugo was fast but we did &lt;a href=&#34;https://forestry.io/blog/hugo-vs-jekyll-benchmark/&#34;&gt;some additional benchmarking&lt;/a&gt; before making our decision. Seeing Hugo in action is a whole different world of awesome. Hugo takes less than one second to build our 150-page site! Take a look:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;                   &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; EN   
-+------------------+-----+
-  Pages            &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;141&lt;/span&gt;  
-  Paginator pages  &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt;  
-  Non-page files   &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;  
-  Static files     &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;537&lt;/span&gt;  
-  Processed images &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;  
-  Aliases          &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;  &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt;  
-  Sitemaps         &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;  
-  Cleaned          &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt;   &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;  
-
-Total in &lt;span class=&#34;m&#34;&gt;739&lt;/span&gt; ms
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In fact, we liked Hugo so much that our wizard Chris made his workflow public and we started the open-source project &lt;a href=&#34;https://github.com/forestryio/create-static-site&#34;&gt;Create-Static-Site&lt;/a&gt;. It&amp;rsquo;s &lt;a href=&#34;https://forestry.io/blog/up-and-running-with-hugo/&#34;&gt;a simple way to spin up sites&lt;/a&gt; and set up a modern web development workflow with one line of code. Essentially it adds build configurations as a dependency for JS, CSS and Image Processing.&lt;/p&gt;
-&lt;p&gt;Lastly, we want to take the opportunity to give some love to other amazing tools we used building our website.&lt;/p&gt;
-&lt;h3 id=&#34;what-tools-did-we-use&#34;&gt;What tools did we use? &lt;a class=&#34;header-link&#34; href=&#34;#what-tools-did-we-use&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 id=&#34;history&#34;&gt;History &lt;a class=&#34;header-link&#34; href=&#34;#history&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The organization started in 2008 when Salman &amp;ldquo;Sal&amp;rdquo; Khan tutored one of his cousins in mathematics on the Internet using a service called Yahoo! Doodle Images. After a while, Khan&amp;rsquo;s other cousins began to use his tutoring service. Due to the demand, Khan decided to make his videos watchable on the Internet, so he published his content on YouTube. Later, he used a drawing application called SmoothDraw, and now uses a Wacom tablet to draw using ArtRage. The video tutorials were recorded on his computer.&lt;/p&gt;
+&lt;h3 id=&#34;language-availability&#34;&gt;Language availability &lt;a class=&#34;header-link&#34; href=&#34;#language-availability&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Khan Academy videos have been translated into several languages, with close to 20,000 subtitle translations available. These translations are mainly volunteer-driven with help from international partnerships. The Khan Academy platform is fully available in English (en), Bangla (bn), Bulgarian (bg), Chinese (zh), French (fr), German (de), Georgian (ka), Norwegian (nb), Polish (pl) Portuguese (pt), Spanish (es), Serbian (sr), Turkish (tr) and Uzbek (uz), and partially available in 28 other languages.&lt;/p&gt;
+&lt;h3 id=&#34;recognition&#34;&gt;Recognition &lt;a class=&#34;header-link&#34; href=&#34;#recognition&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Khan Academy has gained recognition both in the US and internationally:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Our Norwegian designer Nichlas is in love with &lt;a href=&#34;https://www.sketchapp.com/&#34;&gt;&lt;strong&gt;Sketch&lt;/strong&gt;&lt;/a&gt;. From what we hear it’s a designer’s dream come true.&lt;/li&gt;
-&lt;li&gt;Some say our main graphic is &lt;a href=&#34;https://twitter.com/hmncllctv/status/968907474664284160&#34;&gt;mesmerizing&lt;/a&gt;. Nichlas created it using &lt;a href=&#34;https://www.autodesk.com/products/3ds-max/overview&#34;&gt;&lt;strong&gt;3DS Max&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.iooo/&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt; &amp;ndash; of course.&lt;/li&gt;
-&lt;li&gt;Chris can’t think of modern web development without &lt;a href=&#34;https://gulpjs.com/&#34;&gt;&lt;strong&gt;Gulp&lt;/strong&gt;&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://webpack.js.org/&#34;&gt;&lt;strong&gt;Webpack&lt;/strong&gt;&lt;/a&gt;. We used them to add additional build steps such as Browsersync, CSS, JS and SVG optimization.&lt;/li&gt;
-&lt;li&gt;Speaking about adding steps to our build, our lives would be much harder without &lt;a href=&#34;https://circleci.com/&#34;&gt;&lt;strong&gt;CircleCI&lt;/strong&gt;&lt;/a&gt; for continuous deployment and automated testing purposes.&lt;/li&gt;
-&lt;li&gt;We can’t stop raving about &lt;a href=&#34;https://www.algolia.com/&#34;&gt;&lt;strong&gt;Algolia&lt;/strong&gt;&lt;/a&gt;. Chris loves it and even wrote a tutorial on &lt;a href=&#34;https://forestry.io/blog/search-with-algolia-in-hugo/&#34;&gt;how to implement Algolia&lt;/a&gt; into static sites using Hugo’s &lt;a href=&#34;https://gohugo.io/templates/output-formats/&#34;&gt;Custom Outputs&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloudinary.com/&#34;&gt;&lt;strong&gt;Cloudinary&lt;/strong&gt;&lt;/a&gt; is probably one of the easiest ways to get responsive images into your website.&lt;/li&gt;
-&lt;li&gt;We might be a little biased on this one - We think &lt;a href=&#34;https://forestry.io/&#34;&gt;&lt;strong&gt;Forestry.io&lt;/strong&gt;&lt;/a&gt; is a great way to add a content management system with a clean UI on top of your site without interrupting your experience as a developer.&lt;/li&gt;
-&lt;li&gt;For hosting purposes we use the almighty &lt;a href=&#34;https://aws.amazon.com/&#34;&gt;&lt;strong&gt;AWS&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://formspree.io/&#34;&gt;&lt;strong&gt;Formspree.io&lt;/strong&gt;&lt;/a&gt; is managing our support and enterprise requests.&lt;/li&gt;
-&lt;li&gt;We also use browser cookies and JS to customize our user’s experience and give it a more dynamic feel.&lt;/li&gt;
+&lt;li&gt;In April 2012, the founder and executive director of Khan Academy, Sal Khan, was listed among TIME&amp;rsquo;s 100 Most Influential People for 2012.[43]&lt;/li&gt;
+&lt;li&gt;Khan was one of five winners of the 2014 Heinz Award. His award was in the area of &amp;ldquo;Human Condition.&amp;quot;[44]&lt;/li&gt;
+&lt;li&gt;In 2016, Khan Academy won a Shorty Award for Best in Education.[45]&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
     </item>
     
     <item>
-      <title>Showcase: Quiply Employee Communications App</title>
-      <link>/showcase/quiply-employee-communications-app/</link>
+      <title>Showcase: Code.org</title>
+      <link>/showcase/codeorg/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/showcase/quiply-employee-communications-app/</guid>
+      <guid>/showcase/codeorg/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="/showcase/quiply-employee-communications-app/featured_hua0e0d1ed0f0bc15921e78476b0c86c95_631206_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
+        <![CDATA[<img src="/showcase/codeorg/featured_hu8ba6f1748bc98da56d9d614f1994984d_134600_640x0_resize_catmullrom_2.png" width="640" height="336"/>]]>
         
-        &lt;p&gt;With the launch of our Employee Communications app Quiply we created a very simple and static one-page website to showcase our product.&lt;/p&gt;
-&lt;p&gt;As our customer base and demand for marketing and communication started to grow, we needed a solution to easily grow and extend the contents of our web presence. As we do not have the need to serve dynamic content, we decided to use a static site generator. Amongst a couple of others, we tried Hugo and it became immediately clear that we&amp;rsquo;d use Hugo going forward as it compiles super-fast, is intuitive to use and offers all the features we need.&lt;/p&gt;
-&lt;p&gt;Our website which we launched a couple of weeks ago is still growing and new content is being added constantly. By using Hugo, this can be easily done by content authors writing markdown files without always having to touch HTML or CSS code. It is available in German only for the time being, an English version is in the works.&lt;/p&gt;
-&lt;p&gt;Huge thanks to everyone involved in making Hugo a success.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Showcase: Hugo ShowcaseShowcase Template</title>
-      <link>/showcase/template/</link>
-      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/showcase/template/</guid>
-      <description>
-        
-        
-        
-        <![CDATA[<img src="/showcase/template/featured-template_hu2f0d11388f944348b232a431caeb965b_41270_640x0_resize_catmullrom_2.png" width="640" height="320"/>]]>
-        
-        &lt;p&gt;Have a &lt;strong&gt;notable Hugo site&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt;? We would love to feature it in this &lt;strong&gt;Showcase Section&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We would really appreciate if you could:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Fork &lt;a href=&#34;https://github.com/gohugoio/hugoDocs&#34;&gt;https://github.com/gohugoio/hugoDocs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Run &lt;code&gt;hugo new showcase/your-site&lt;/code&gt; (this requires &amp;gt;= Hugo 0.49). This will use the archetype bundle in the &lt;a href=&#34;https://github.com/gohugoio/hugoDocs/tree/master/archetypes&#34;&gt;docs repo&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Follow the instructions in the newly created page bundle.&lt;/li&gt;
-&lt;li&gt;Create a new pull request in &lt;a href=&#34;https://github.com/gohugoio/hugoDocs/pulls&#34;&gt;https://github.com/gohugoio/hugoDocs/pulls&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;We want this to show Hugo in its best light, so this is not for the average Hugo blog. In most cases the answer to &amp;ldquo;Is my site &lt;a href=&#34;https://www.dictionary.com/browse/notable&#34;&gt;notable&lt;/a&gt;?&amp;rdquo; will be obvious, but if in doubt, create an &lt;a href=&#34;https://github.com/gohugoio/hugoDocs/issues&#34;&gt;issue&lt;/a&gt; with a link and some words, and we can discuss it. But if you have a site with an interesting Hugo story or a company site where the company itself is notable, you are most welcome. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
+        &lt;p&gt;If you&amp;rsquo;re a curious beginner, start with the short, engaging Hour of Code tutorials. There are even unplugged (no computer needed) activities that teach coding concepts in the physical world. The Hour of Code tutorials are similar to the activities included in the CS Fundamentals curriculum. If you already have a coding curriculum but are looking to supplement it with some real-world experience, send students to the App Lab, Web Lab, and Play Lab, where they can design and share apps, websites, and games, respectively. Students can also play and remix games designed by other students, which is a great option for students who need some creative inspiration.&lt;/p&gt;
 
       </description>
     </item>

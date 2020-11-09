@@ -8,34 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="/showcase/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Forestry.io</title>
-      <link>/showcase/forestry/</link>
+      <title>Khan Academy</title>
+      <link>/showcase/khanacademy/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/showcase/forestry/</guid>
-      <description>It was clear from the get-go that we had to go with a static site generator. Static sites are secure, performant, and give you 100% flexibility. At Forestry.io we provide Content Management Solutions for websites built with static site generators, so we might be a little biased. The only question: Which static site generator was the right choice for us?
-Why Hugo?  In our early research we looked at Ionic’s site to get some inspiration.</description>
+      <guid>/showcase/khanacademy/</guid>
+      <description>History  The organization started in 2008 when Salman &amp;ldquo;Sal&amp;rdquo; Khan tutored one of his cousins in mathematics on the Internet using a service called Yahoo! Doodle Images. After a while, Khan&amp;rsquo;s other cousins began to use his tutoring service. Due to the demand, Khan decided to make his videos watchable on the Internet, so he published his content on YouTube. Later, he used a drawing application called SmoothDraw, and now uses a Wacom tablet to draw using ArtRage.</description>
     </item>
     
     <item>
-      <title>Quiply Employee Communications App</title>
-      <link>/showcase/quiply-employee-communications-app/</link>
+      <title>Code.org</title>
+      <link>/showcase/codeorg/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/showcase/quiply-employee-communications-app/</guid>
-      <description>With the launch of our Employee Communications app Quiply we created a very simple and static one-page website to showcase our product.
-As our customer base and demand for marketing and communication started to grow, we needed a solution to easily grow and extend the contents of our web presence. As we do not have the need to serve dynamic content, we decided to use a static site generator. Amongst a couple of others, we tried Hugo and it became immediately clear that we&amp;rsquo;d use Hugo going forward as it compiles super-fast, is intuitive to use and offers all the features we need.</description>
-    </item>
-    
-    <item>
-      <title>Hugo ShowcaseShowcase Template</title>
-      <link>/showcase/template/</link>
-      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/showcase/template/</guid>
-      <description>Have a notable Hugo site1? We would love to feature it in this Showcase Section
-We would really appreciate if you could:
- Fork https://github.com/gohugoio/hugoDocs Run hugo new showcase/your-site (this requires &amp;gt;= Hugo 0.49). This will use the archetype bundle in the docs repo. Follow the instructions in the newly created page bundle. Create a new pull request in https://github.com/gohugoio/hugoDocs/pulls    We want this to show Hugo in its best light, so this is not for the average Hugo blog.</description>
+      <guid>/showcase/codeorg/</guid>
+      <description>If you&amp;rsquo;re a curious beginner, start with the short, engaging Hour of Code tutorials. There are even unplugged (no computer needed) activities that teach coding concepts in the physical world. The Hour of Code tutorials are similar to the activities included in the CS Fundamentals curriculum. If you already have a coding curriculum but are looking to supplement it with some real-world experience, send students to the App Lab, Web Lab, and Play Lab, where they can design and share apps, websites, and games, respectively.</description>
     </item>
     
   </channel>
