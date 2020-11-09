@@ -66,7 +66,7 @@
 <meta itemprop="description" content="Some K–12 leaders are adding infrared sensors to their list of tools for safely reopening school buildings.">
 <meta itemprop="datePublished" content="2020-10-14T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2020-11-06T19:31:44-08:00" />
-<meta itemprop="wordCount" content="289">
+<meta itemprop="wordCount" content="2">
 <meta itemprop="image" content="images/gohugoio-card-1.png">
 
 
@@ -92,7 +92,7 @@
   <div class="center flex-ns flex-wrap items-center justify-start mw9">
 
     <h1 class="dim f3 lh-solid ml0-ns mr0 mr4-l mv0 pl3 pl4-ns">
-      <a href="https://gohugo.io/" class="link white">
+      <a href="https://macorama.github.com/" class="link white">
          Learnosity
       </a>
     </h1>
@@ -110,7 +110,7 @@
       
         <li class="f5 dib mr4" role="menuitem">
             
-          <a href="/documentation/" class="dim link light-silver">
+          <a href="/about/" class="dim link light-silver">
             Programs
               
             
@@ -189,7 +189,7 @@
 
   </a>
 
-<a class="github-button needs-js link primary-color-dark" href="https://github.com/gohugoio/hugo" data-size="large" data-show-count="false" aria-label="Star gohugoio/hugo on GitHub">Star</a>
+<a class="github-button needs-js link primary-color-dark" href="https://github.com/" data-size="large" data-show-count="false" aria-label="Star gohugoio/hugo on GitHub">Star</a>
 </span>
 
   </div>
@@ -256,58 +256,7 @@
           
           
           
-        <p><strong>Netlify</strong> recently announced support for <a href="https://www.netlify.com/blog/2017/07/18/http/2-server-push-on-netlify/">HTTP/2 server push</a>, and we have now added it to the <strong>gohugo.io</strong> sites for the main <code>CSS</code> and <code>JS</code> bundles, along with server-side 301 redirect support.</p>
-<p>If you navigate to <a href="https://gohugo.io">https://gohugo.io</a> and look in the Chrome developer network console, you should now see <code>Push</code> as the new source (&ldquo;Initiator&rdquo;) for the <code>CSS</code> and <code>JSS</code>:</p>
-<figure>
-    <img src="/images/blog/hugo-http2-push.png"
-         alt="Network log for https://gohugo.io"/> <figcaption>
-            <p>Network log for <a href="https://gohugo.io">https://gohugo.io</a></p>
-        </figcaption>
-</figure>
-
-<p><strong>Setting up this in Hugo was easy:</strong></p>
-<h2 id="1-configure-netlify-output-formats">1. Configure Netlify Output Formats <a class="header-link" href="#1-configure-netlify-output-formats"><svg class="fill-current o-60 hover-accent-color-light" height="22px" viewBox="0 0 24 24" width="22px" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none"/><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg></a></h2>
-<p>Add a new custom media type and two new output formats to <code>config.toml</code>. For more on output formats in Hugo, see <a href="/templates/output-formats/">Custom Output Formats</a>.</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="o">[</span>outputs<span class="o">]</span>
-<span class="nv">home</span> <span class="o">=</span> <span class="o">[</span> <span class="s2">&#34;HTML&#34;</span>, <span class="s2">&#34;RSS&#34;</span>, <span class="s2">&#34;REDIR&#34;</span>, <span class="s2">&#34;HEADERS&#34;</span> <span class="o">]</span>
-
-<span class="o">[</span>mediaTypes<span class="o">]</span>
-<span class="o">[</span>mediaTypes.<span class="s2">&#34;text/netlify&#34;</span><span class="o">]</span>
-<span class="nv">suffix</span> <span class="o">=</span> <span class="s2">&#34;&#34;</span>
-<span class="nv">delimiter</span> <span class="o">=</span> <span class="s2">&#34;&#34;</span>
-
-<span class="o">[</span>outputFormats<span class="o">]</span>
-<span class="o">[</span>outputFormats.REDIR<span class="o">]</span>
-<span class="nv">mediatype</span> <span class="o">=</span> <span class="s2">&#34;text/netlify&#34;</span>
-<span class="nv">baseName</span> <span class="o">=</span> <span class="s2">&#34;_redirects&#34;</span>
-<span class="nv">isPlainText</span> <span class="o">=</span> <span class="nb">true</span>
-<span class="nv">notAlternative</span> <span class="o">=</span> <span class="nb">true</span>
-<span class="o">[</span>outputFormats.HEADERS<span class="o">]</span>
-<span class="nv">mediatype</span> <span class="o">=</span> <span class="s2">&#34;text/netlify&#34;</span>
-<span class="nv">baseName</span> <span class="o">=</span> <span class="s2">&#34;_headers&#34;</span>
-<span class="nv">isPlainText</span> <span class="o">=</span> <span class="nb">true</span>
-<span class="nv">notAlternative</span> <span class="o">=</span> <span class="nb">true</span>
-</code></pre></div><h2 id="2-add-template-for-the-_headers-file">2. Add Template For the _headers File <a class="header-link" href="#2-add-template-for-the-_headers-file"><svg class="fill-current o-60 hover-accent-color-light" height="22px" viewBox="0 0 24 24" width="22px" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none"/><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg></a></h2>
-<p>Add <code>layouts/index.headers</code>:</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">/*
-  X-Frame-Options: DENY
-  X-XSS-Protection: 1<span class="p">;</span> <span class="nv">mode</span><span class="o">=</span>block
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: origin-when-cross-origin
-*/
-  Link: &lt;<span class="o">{{</span> <span class="s2">&#34;dist/app.bundle.js&#34;</span> <span class="p">|</span> relURL <span class="o">}}</span>&gt;<span class="p">;</span> <span class="nv">rel</span><span class="o">=</span>preload<span class="p">;</span> <span class="nv">as</span><span class="o">=</span>script
-  Link: &lt;<span class="o">{{</span> <span class="s2">&#34;dist/main.css&#34;</span> <span class="p">|</span> relURL <span class="o">}}</span>&gt;<span class="p">;</span> <span class="nv">rel</span><span class="o">=</span>preload<span class="p">;</span> <span class="nv">as</span><span class="o">=</span>style
-</code></pre></div><p>The template above creates both a security header definition and a HTTP/2 server push configuration.</p>
-<p>Also note that this is a template for the home page, so the full <code>Page</code> with its <code>Site</code> and many variables are available. You can also use <code>partial</code> to include other templates.</p>
-<h2 id="3-add-template-for-the-_redirects-file">3. Add Template For the _redirects File <a class="header-link" href="#3-add-template-for-the-_redirects-file"><svg class="fill-current o-60 hover-accent-color-light" height="22px" viewBox="0 0 24 24" width="22px" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h24v24H0z" fill="none"/><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg></a></h2>
-<p>Add <code>layouts/index.redir</code>:</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1"># Netlify redirects. See https://www.netlify.com/docs/redirects/</span>
-<span class="o">{{</span>  range <span class="nv">$p</span> :<span class="o">=</span> .Site.Pages -<span class="o">}}</span>
-<span class="o">{{</span> range .Aliases <span class="o">}}</span>
-<span class="o">{{</span>  . <span class="p">|</span> <span class="nb">printf</span> <span class="s2">&#34;%-35s&#34;</span> <span class="o">}}</span>	<span class="o">{{</span> <span class="nv">$p</span>.RelPermalink -<span class="o">}}</span>
-<span class="o">{{</span> end -<span class="o">}}</span>
-<span class="o">{{</span>- end -<span class="o">}}</span>
-</code></pre></div><p>The template above creates 301 redirects for your <a href="/content-management/urls/#aliases">aliases</a>, so you will probably want to turn off aliases in your <code>config.toml</code>: <code>disableAliases = true</code>.</p>
+        <p><a href="https://edtechmagazine.com/k12/article/2020/10/want-enter-school-building-get-scanned-first">Read more&hellip;</a>.</p>
 
       </div>
     </div>
@@ -352,7 +301,7 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="/documentation/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
+        <a href="/about/" class="ttu f6 link primary-color-light overflow hover-white db brand-font  ma0 w-100 pv3 ph4">
           Programs
         </a>
     </li>
@@ -408,61 +357,73 @@ f6 ph3 pv1 br2 dib  tc ttu mv3 bg-primary-color white hover-bg-green link
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="/hugo-modules/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="/reading/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Reading
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="/content-management/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="/writing/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Writing
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="/functions/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
-          Geography
-        </a>
-    </li>
-  
-    <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="/variables/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="/social-studies/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Social Studies
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="/hugo-pipes/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="/geography/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Geography
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="/commands/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Dance
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
+        <a href="" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Music
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
+        <a href="" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+          Singing / Voice Lessons
+        </a>
+    </li>
+  
+    <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
+        <a href="" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Youtube channels
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="/troubleshooting/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           STEM Toys
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="/tools/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Mobile Apps
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100">
-        <a href="/hosting-and-deployment/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Free resources
         </a>
     </li>
   
     <li  class="tl dib ma0 hover-bg-black w-100 mb2 bb b--mid-gray">
-        <a href="/contribute/" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
+        <a href="" class="ttu f6 link primary-color-light  hover-white db brand-font mb1  ma0 w-100 pv2 ph4">
           Music &amp; Dance
         </a>
     </li>

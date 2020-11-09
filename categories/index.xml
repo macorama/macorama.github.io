@@ -17,29 +17,11 @@
     </item>
     
     <item>
-      <title>functions</title>
-      <link>/categories/functions/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/functions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>asset management</title>
       <link>/categories/asset-management/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/asset-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>content management</title>
-      <link>/categories/content-management/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/content-management/</guid>
       <description></description>
     </item>
     
@@ -62,38 +44,11 @@
     </item>
     
     <item>
-      <title>variables and params</title>
-      <link>/categories/variables-and-params/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variables-and-params/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hugo modules</title>
       <link>/categories/hugo-modules/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/hugo-modules/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hosting and deployment</title>
-      <link>/categories/hosting-and-deployment/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/hosting-and-deployment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>troubleshooting</title>
-      <link>/categories/troubleshooting/</link>
-      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/troubleshooting/</guid>
       <description></description>
     </item>
     
@@ -116,29 +71,20 @@
     </item>
     
     <item>
-      <title>contribute</title>
-      <link>/categories/contribute/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <title>variables and params</title>
+      <link>/categories/variables-and-params/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/contribute/</guid>
+      <guid>/categories/variables-and-params/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>developer tools</title>
-      <link>/categories/developer-tools/</link>
+      <title>content management</title>
+      <link>/categories/content-management/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/developer-tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>project organization</title>
-      <link>/categories/project-organization/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/project-organization/</guid>
+      <guid>/categories/content-management/</guid>
       <description></description>
     </item>
     

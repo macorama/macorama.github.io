@@ -53,15 +53,6 @@
     </item>
     
     <item>
-      <title>Grade 4</title>
-      <link>/getting-started/quick-start/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/getting-started/quick-start/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grade 5</title>
       <link>/getting-started/grade5/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
@@ -112,10 +103,7 @@
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/getting-started/external-learning-resources/</guid>
-      <description>Books  Hugo In Action  
-Hugo in Action is a step-by-step guide to using Hugo to create static websites. Working with a complete example website and source code samples, you’ll learn how to build and host a low-maintenance, high-performance site that will wow your users and stay stable without relying on a third-party server.
-Hugo In Action Home Page
-Video tutorials  Video Playlist by Mike Dane  Mike Dane explains the various features of Hugo via dedicated tutorials on YouTube.</description>
+      <description></description>
     </item>
     
   </channel>

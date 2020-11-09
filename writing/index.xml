@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Learnosity</title>
+    <link>/writing/</link>
+    <description>Recent content in Writing on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IXL</title>
+      <link>/writing/ixl/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/ixl/</guid>
+      <description>IXL lists skills that cover writing and composition. These skills are organized by grade, and one can just move your mouse over any skill name to preview the skill. To start practising, just click on any link. IXL will track your score, and the questions will automatically increase in difficulty as users improve.</description>
+    </item>
+    
+    <item>
+      <title>Kids Love Writing</title>
+      <link>/writing/kidslovewriting/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/kidslovewriting/</guid>
+      <description>Program uses technology, music, and theater to give your child a positive, confidence-building experience with writing.</description>
+    </item>
+    
+    <item>
+      <title>Night Zoopkeeper</title>
+      <link>/writing/nightzookeeper/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/nightzookeeper/</guid>
+      <description>Night Zookeeper is an online learning platform that helps kids ages 6-12 to improve their reading and writing skills. Good writing games and tools are not easy to come by online, in this humble momma&amp;rsquo;s opinion. Most emphasize reading aloud or basic spelling/vocabulary games. It was nice to find a site that was primarily dedicated to writing. What&amp;rsquo;s unique about Night Zookeeper is that it also offers feedback to its users, almost like an online teacher/tutor.</description>
+    </item>
+    
+  </channel>
+</rss>
