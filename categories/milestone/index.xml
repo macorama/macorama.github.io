@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>milestone on Learnosity</title>
+    <link>/categories/milestone/</link>
+    <description>Recent content in milestone on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/milestone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Milestones</title>
+      <link>/milestones/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/milestones/</guid>
+      <description>Developmental and cognitive milestones are behaviors/skills that children exhibit at a given age.
+  However all children develop differently and can reach these milestone at different times.
+  The checklists that track milestones are just an example of a typical development observation at a given age.
+  Some children develop more rapidly in some areas than in others, and the time frame in which a normally developing child reaches a certain milestone can vary quite a bit.</description>
+    </item>
+    
+  </channel>
+</rss>

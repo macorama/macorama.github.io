@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dance Overview on Learnosity</title>
+    <link>/dance/</link>
+    <description>Recent content in Dance Overview on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/dance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn To Dance</title>
+      <link>/dance/learntodance/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/dance/learntodance/</guid>
+      <description>The Learn to Dance lessons demonstrate the most famous dance styles including: Ballroom &amp;amp; Latin, Hip Hop, Salsa, Ballet, Club Dancing, Tap Dance, Freestyle Dance, Breakdancing, Irish Step Dancing, Line Dancing, Country Western, Argentine Tango, Belly Dancing
+The three ballroom dances taught are the waltz, rumba, and swing. The instructors say that these three dances fit 95% of the songs you will hear at any social dance event.
+Well catered to the beginner audience and help them build confidence to master the basics of ballroom dance.</description>
+    </item>
+    
+    <item>
+      <title>Steezy</title>
+      <link>/dance/steezy/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/dance/steezy/</guid>
+      <description>  Cost: $20/month
+  Urban dance
+    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on Learnosity</title>
+    <link>/history/</link>
+    <description>Recent content in History on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smithsonian</title>
+      <link>/history/smithsonian/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/history/smithsonian/</guid>
+      <description>Take Aways    Explore museum artifacts
+  Parents can find content that can relate to school topics.
+  Parents should curate the content as there is a lot for the kid to get overwhelmed
+    </description>
+    </item>
+    
+    <item>
+      <title>Time for Kids</title>
+      <link>/history/time4kids/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/history/time4kids/</guid>
+      <description>Review  Take Aways    News magazine targeted for kids and covers current topics.
+  Promote higher level thinking in kids with some content that is unique and though provoking
+  Age appropriate content
+  https://www.timeforkids.com/g2/ https://www.timeforkids.com/k1/ https://www.timeforkids.com/g34/ https://www.timeforkids.com/g56/
+  </description>
+    </item>
+    
+  </channel>
+</rss>

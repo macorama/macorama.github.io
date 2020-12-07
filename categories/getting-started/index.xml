@@ -8,200 +8,47 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/getting-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Get Started</title>
-      <link>/getting-started/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/getting-started/</guid>
-      <description>Math is important and it’s important to help young children develop their mathematical thinking. A child’s math knowledge at the start of kindergarten predicts later academic achievement better than early reading or attention skills. Math is part of children’s everyday lives. Taking advantage of each of these math moments develops math learning. Each math moment is like a charging station that helps children become ready for more math learning. Math is measuring, sorting, building, noticing patterns, making comparisons, and describing the environment, as well as counting and knowing the names of shapes.</description>
-    </item>
-    
-    <item>
-      <title>Get Started</title>
-      <link>/milestones/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/</guid>
-      <description>Math is important and it’s important to help young children develop their mathematical thinking. A child’s math knowledge at the start of kindergarten predicts later academic achievement better than early reading or attention skills. Math is part of children’s everyday lives. Taking advantage of each of these math moments develops math learning. Each math moment is like a charging station that helps children become ready for more math learning. Math is measuring, sorting, building, noticing patterns, making comparisons, and describing the environment, as well as counting and knowing the names of shapes.</description>
-    </item>
-    
-    <item>
-      <title>Kindergarten</title>
-      <link>/getting-started/kindergarten/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/getting-started/kindergarten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kindergarten</title>
-      <link>/milestones/kindergarten/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/kindergarten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Grade 1</title>
-      <link>/getting-started/grade1/</link>
+      <link>/math/grade1/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/getting-started/grade1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 1</title>
-      <link>/milestones/grade1/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/grade1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 2</title>
-      <link>/getting-started/grade2/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/getting-started/grade2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 2</title>
-      <link>/milestones/grade2/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/grade2/</guid>
+      <guid>/math/grade1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade 3</title>
-      <link>/getting-started/grade3/</link>
+      <link>/math/grade3/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/getting-started/grade3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 3</title>
-      <link>/milestones/grade3/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/grade3/</guid>
+      <guid>/math/grade3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grade 4</title>
-      <link>/getting-started/grade4/</link>
+      <link>/math/grade4/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/getting-started/grade4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 4</title>
-      <link>/milestones/grade4/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/grade4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 5</title>
-      <link>/getting-started/grade5/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/getting-started/grade5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 5</title>
-      <link>/milestones/grade5/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/grade5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singapore Math</title>
-      <link>/getting-started/directory-structure/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/getting-started/directory-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singapore Math</title>
-      <link>/milestones/directory-structure/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/directory-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beast Academy</title>
-      <link>/getting-started/code-toggle/</link>
-      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/getting-started/code-toggle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beast Academy</title>
-      <link>/milestones/code-toggle/</link>
-      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/code-toggle/</guid>
+      <guid>/math/grade4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saxon Math</title>
-      <link>/getting-started/configuration/</link>
+      <link>/math/saxon/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/getting-started/configuration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saxon Math</title>
-      <link>/milestones/configuration/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/configuration/</guid>
+      <guid>/math/saxon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Russian Math</title>
-      <link>/getting-started/configuration-markup/</link>
+      <link>/math/configuration-markup/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/getting-started/configuration-markup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Russian Math</title>
-      <link>/milestones/configuration-markup/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/configuration-markup/</guid>
+      <guid>/math/configuration-markup/</guid>
       <description></description>
     </item>
     

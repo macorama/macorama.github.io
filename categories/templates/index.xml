@@ -8,21 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/templates/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coding Platforms</title>
-      <link>/coding/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tynker</title>
       <link>/coding/tynker/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/tynker/</guid>
-      <description>Overview  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Overview  Parents need to know that Tynker is a Web-based course collection that teaches kids the logic of programming using visual blocks of code. Parents can register kids for two paid, self-paced online courses, Introduction to Programming and Game Design, or have kids work on several free coding games in the Hour of Code section, which includes a few activities that let kids program their own games or apps.</description>
     </item>
     
     <item>
@@ -31,7 +22,8 @@
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/scratch/</guid>
-      <description>Overview  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Overview  https://www.commonsense.org/education/website/scratch
+Scratch (version 3.0) is the latest iteration of the block-based coding language created by MIT&amp;rsquo;s Lifelong Kindergarten Group. It can be used online or downloaded and used without an internet connection. Like its predecessors, Scratch allows students to learn and put to use all the essential elements of coding and computer science. From creating variables to building functions, students snap drag-and-drop blocks of code together to create programs for animation, digital storytelling, art, math &amp;ndash; you name it.</description>
     </item>
     
     <item>
@@ -40,7 +32,7 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/whitehat-jr/</guid>
-      <description>Overview  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Overview  I did not have a positive experience after signing up :( I was</description>
     </item>
     
     <item>
@@ -49,7 +41,7 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/kodable/</guid>
-      <description>Overview  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Overview  Kodable introduces kids to key concepts in computer programming through a series of games designed to grow with them from kindergarten to fifth grade. The games are set in outer space, and students advance through the levels by learning programming concepts as they play. Skills start with sequencing and advance to loops, conditions, functions, and variables and into object-oriented programming concepts like properties and classes.</description>
     </item>
     
     <item>
@@ -58,16 +50,18 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/khanacademy/</guid>
-      <description>Overview  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>   Take Aways   Audience-appropriate projects Interesting projects and student feel rewarded when they complete them Video lessons, engaging and interactive exercises Hands-on learning through scripting and coding  </description>
     </item>
     
     <item>
-      <title>Terrapin Logo</title>
+      <title>Turtle Academy</title>
       <link>/coding/terrapin-logo/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/terrapin-logo/</guid>
-      <description>Overview  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>A peek at beginner level steps    Overview  Turtle Academy
+  Turtle Academy makes use of turtle Logo programming which is primarily uses drawing commands to create graphical figures. Commands are entered in one window and the output is seen in the other.
+  Brilliant way to start teaching coding through simple commands. Instant gratification for kids as they see the commands draw objects instantly.</description>
     </item>
     
     <item>
@@ -76,7 +70,7 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/hopscotch/</guid>
-      <description>Overview  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Overview  Parents need to know that Hopscotch-Programming for kids is a drag-and-drop coding app that lets write and share their own programs and animations. Kids can save their creations to their device or choose to share them with the curated Hopscotch channels, and they can play, remix, and comment on other people&amp;rsquo;s creations. It&amp;rsquo;s a lot like Scratch and ScratchJr, two other block-based coding tools, and one big difference is that Hopscotch is built just for mobile devices.</description>
     </item>
     
   </channel>

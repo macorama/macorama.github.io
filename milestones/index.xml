@@ -1,112 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Get Started on Learnosity</title>
+    <title>Milestones on Learnosity</title>
     <link>/milestones/</link>
-    <description>Recent content in Get Started on Learnosity</description>
+    <description>Recent content in Milestones on Learnosity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/milestones/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kindergarten</title>
-      <link>/milestones/kindergarten/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/kindergarten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 1</title>
-      <link>/milestones/grade1/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/grade1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 2</title>
-      <link>/milestones/grade2/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/grade2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grade 3</title>
-      <link>/milestones/grade3/</link>
+      <title>Code.org</title>
+      <link>/milestones/apps/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/milestones/grade3/</guid>
-      <description></description>
+      <guid>/milestones/apps/</guid>
+      <description>Apps    [CDC&amp;rsquo;s Milestone Tracker for iPhone ] (https://apps.apple.com/us/app/cdcs-milestone-tracker/id1232718688)
+  [CDC&amp;rsquo;s Milestone Tracker for Android] (https://play.google.com/store/apps/details?id=gov.cdc.ncbddd.actearly.milestones&amp;amp;hl=en_US&amp;amp;gl=US)
+  </description>
     </item>
     
     <item>
-      <title>Grade 4</title>
-      <link>/milestones/grade4/</link>
+      <title>Code.org</title>
+      <link>/milestones/checklists/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/milestones/grade4/</guid>
-      <description></description>
+      <guid>/milestones/checklists/</guid>
+      <description>CDC Checlists  Checklists from CDC
+[University of Michigan Health System] (https://www.uofmhealth.org/health-library/hw251065#te4698)
+Pathways  [Pathways.org Checklist] (https://pathways.org/wp-content/uploads/2019/07/milestoneschecklist_updated.pdf)
+Healthychildren.org  This resource contains a helpful section Developmental health watch under each age category
+Help Me Grow  Encouraging Healthy development
+[Healthy development articles] (https://helpmegrowmn.org/HMG/HelpfulRes/Articles/index.html)
+Intervention  A good resource on [when intervention is needed] (https://helpmegrowmn.org/HMG/GetHelpChild/WhyRefer/index.html)
+  </description>
     </item>
     
     <item>
-      <title>Grade 5</title>
-      <link>/milestones/grade5/</link>
+      <title>Code.org</title>
+      <link>/milestones/immune/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/milestones/grade5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singapore Math</title>
-      <link>/milestones/directory-structure/</link>
-      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/directory-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beast Academy</title>
-      <link>/milestones/code-toggle/</link>
-      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/code-toggle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saxon Math</title>
-      <link>/milestones/configuration/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/configuration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Russian Math</title>
-      <link>/milestones/configuration-markup/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/configuration-markup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Math Mammoth</title>
-      <link>/milestones/external-learning-resources/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/external-learning-resources/</guid>
-      <description>Books  Hugo In Action  
-Hugo in Action is a step-by-step guide to using Hugo to create static websites. Working with a complete example website and source code samples, you’ll learn how to build and host a low-maintenance, high-performance site that will wow your users and stay stable without relying on a third-party server.
-Hugo In Action Home Page
-Video tutorials  Video Playlist by Mike Dane  Mike Dane explains the various features of Hugo via dedicated tutorials on YouTube.</description>
+      <guid>/milestones/immune/</guid>
+      <description>Immunization  Rcommended Child and Adolescent [Immunization Schedule for ages 18 years or younger, United States, 2020] (https://www.cdc.gov/vaccines/schedules/easy-to-read/child-easyread.html)</description>
     </item>
     
   </channel>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on Learnosity</title>
+    <link>/categories/writing/</link>
+    <description>Recent content in writing on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing</title>
+      <link>/writing/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/</guid>
+      <description>Writing brings out creative side of children. The power of expressing them through written is the fundamental step towards success in school and beyond.</description>
+    </item>
+    
+    <item>
+      <title>Night Zoopkeeper</title>
+      <link>/writing/nightzookeeper/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/nightzookeeper/</guid>
+      <description>Take Aways   Platform that assists K-6 students in improving reading / writing skills. Not east to find platforms that help with writing. Making a game for writing is non trivial and they have done a good job by making it fun and engaging. They provide a writing tool which improves writing.    </description>
+    </item>
+    
+    <item>
+      <title>Time4Writing</title>
+      <link>/writing/time4writing/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/time4writing/</guid>
+      <description>Take Aways     8 week writing course taught online by teachers. From basic sentence structure to writing an essay The courses target are all age groups  </description>
+    </item>
+    
+  </channel>
+</rss>

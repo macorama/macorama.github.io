@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reading on Learnosity</title>
+    <link>/categories/reading/</link>
+    <description>Recent content in reading on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Resources</title>
+      <link>/reading/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/</guid>
+      <description>According to American Academy of Pediatrics, the benefits of reading start in the brain as early as infancy and has a profound effect on kids later in their childhood and adulthood. Even when they cannot read, looking at picture and words as an infant has positive effect on the brains of infant Children who are read to when they are little do better in school as they get older as they have built stronger comprehension skills long with vocabulary</description>
+    </item>
+    
+    <item>
+      <title>Storyline (PreK, K, 1-2)</title>
+      <link>/reading/storyline/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/storyline/</guid>
+      <description>Storyline Online streams reading videos that features kids and even celebrities reading books. The books usually have great accompanying illustrations. The books are categorized for various grade levels which makes it easier to find appropriate books for a student. </description>
+    </item>
+    
+    <item>
+      <title>Storynory</title>
+      <link>/reading/storynory/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/storynory/</guid>
+      <description>Several book categories Great for children Easy to navigate</description>
+    </item>
+    
+    <item>
+      <title>Starfall</title>
+      <link>/reading/starfall/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/starfall/</guid>
+      <description>Take Aways    Starfall is a free web resource that uses fantasy as a tool to foster motivation in children. With a plot suited for you reader, it creates a sense of wonder and curiosity while reading.
+  Learners engage with colorful characters through plots, musical, poems and activities. There are paid options to create custom custom worksheets, lessons, math sheets and more interactive games.
+    </description>
+    </item>
+    
+  </channel>
+</rss>

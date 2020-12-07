@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>museum on Learnosity</title>
+    <link>/categories/museum/</link>
+    <description>Recent content in museum on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/museum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Museum</title>
+      <link>/museum/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/museum/</guid>
+      <description>British Museum, London
+ Popular museum in the heart of London enabled virtual mode for tourists  [Guggenheim Museum, New York] (https://artsandculture.google.com/streetview/solomon-r-guggenheim-museum-interior-streetview/jAHfbv3JGM2KaQ?hl=en&amp;amp;sv_lng=-73.95902634325634&amp;amp;sv_lat=40.78285751667664&amp;amp;sv_h=30.75703204567916&amp;amp;sv_p=0.06928383072430222&amp;amp;sv_pid=MfnUmHRyOSzMtY3vtYU05g&amp;amp;sv_z=0.9645743015259166)
+ Check out Guggenheim’s well knownm spiral staircase  National Gallery of Art, Washington, D.C.
+ Exhibit of American fashion Renderings of clothes from historic eras Works of painter Johannes Vermeer  Musée d’Orsay, Paris
+ Work of famous French artists Art works of Monet, Cézanne, etc  National Museum of Modern and Contemporary Art, Seoul</description>
+    </item>
+    
+  </channel>
+</rss>

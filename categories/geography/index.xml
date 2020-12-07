@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geography on Learnosity</title>
+    <link>/categories/geography/</link>
+    <description>Recent content in geography on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/geography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>National Geographic Kids</title>
+      <link>/geography/geographic/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/geography/geographic/</guid>
+      <description>Take Aways    Learnng resources theough the lense of best photography and videography. Coverage of wildlife is unparellel
+  Large library of resources covering habitats of animnals, culture and countries.
+  Stories told to engage kids
+    </description>
+    </item>
+    
+  </channel>
+</rss>

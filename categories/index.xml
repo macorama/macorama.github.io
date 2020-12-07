@@ -17,29 +17,11 @@
     </item>
     
     <item>
-      <title>asset management</title>
-      <link>/categories/asset-management/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/asset-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fundamentals</title>
-      <link>/categories/fundamentals/</link>
+      <title>math</title>
+      <link>/categories/math/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/fundamentals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>getting started</title>
-      <link>/categories/getting-started/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/getting-started/</guid>
+      <guid>/categories/math/</guid>
       <description></description>
     </item>
     
@@ -53,11 +35,38 @@
     </item>
     
     <item>
-      <title>maintenance</title>
-      <link>/categories/maintenance/</link>
-      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      <title>reading</title>
+      <link>/categories/reading/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/maintenance/</guid>
+      <guid>/categories/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>/categories/writing/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asset management</title>
+      <link>/categories/asset-management/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/asset-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>history</title>
+      <link>/categories/history/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/history/</guid>
       <description></description>
     </item>
     
@@ -71,20 +80,65 @@
     </item>
     
     <item>
-      <title>variables and params</title>
-      <link>/categories/variables-and-params/</link>
-      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      <title>coding</title>
+      <link>/categories/coding/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/variables-and-params/</guid>
+      <guid>/categories/coding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>content management</title>
-      <link>/categories/content-management/</link>
+      <title>dance</title>
+      <link>/categories/dance/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/content-management/</guid>
+      <guid>/categories/dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fundamentals</title>
+      <link>/categories/fundamentals/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geography</title>
+      <link>/categories/geography/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/categories/music/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>/categories/science/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variables and params</title>
+      <link>/categories/variables-and-params/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/variables-and-params/</guid>
       <description></description>
     </item>
     
@@ -94,6 +148,15 @@
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>/categories/about-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social-studies</title>
+      <link>/categories/social-studies/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/social-studies/</guid>
       <description></description>
     </item>
     

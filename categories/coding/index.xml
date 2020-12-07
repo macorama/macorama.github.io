@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Learnosity</title>
+    <link>/categories/coding/</link>
+    <description>Recent content in coding on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Platforms</title>
+      <link>/coding/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Apps</title>
+      <link>/apps/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/apps/</guid>
+      <description>https://apps.apple.com/us/app/id602677864?ign-mpt=uo%3D4
+Expeditions https://apps.apple.com/us/app/id1131711060?ign-mpt=uo%3D4
+https://apps.apple.com/us/app/id489221652?ign-mpt=uo%3D4
+https://play.google.com/store/apps/details?id=com.google.android.apps.seekh</description>
+    </item>
+    
+    <item>
+      <title>Code.org</title>
+      <link>/coding/codeorg/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/coding/codeorg/</guid>
+      <description>Review    Summary  The best thing about Code.org is that they are spreading the word really well about why coding is important, fun, accessible, and relevant. great job getting famous people to help spread the word, which is really important. I&amp;rsquo;ve found its programming stages to be very motivating and the lesson plans behind them solid.
+The site&amp;rsquo;s two main components are the Hour of Code and Code Studio.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/science/resources/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/science/resources/</guid>
+      <description>IXL  https://www.ixl.com/science/
+ Great Standard Core spead of topics. Covers every skills in the curriculum for K-8 Science concepts taught through interactive steps Questions are generated to make sure students get the concepts Helps with educational gaps and when you want some more accountability in the teaching at home There are always areas that your child can practice extra.    </description>
+    </item>
+    
+  </channel>
+</rss>

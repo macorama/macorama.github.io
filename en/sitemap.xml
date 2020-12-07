@@ -3,22 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/geography/introduction/</loc>
-    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/coding/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/getting-started/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
   
@@ -28,7 +13,27 @@
   </url>
   
   <url>
+    <loc>/math/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/apps/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/music/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/reading/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/science/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,18 +53,7 @@
   </url>
   
   <url>
-    <loc>/geography/scss-sass/</loc>
-    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/getting-started/kindergarten/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/kindergarten/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/math/kindergarten/</loc>
   </url>
   
   <url>
@@ -68,12 +62,17 @@
   </url>
   
   <url>
-    <loc>/about/hugo-and-gdpr/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/about/360degree/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/reading/between-the-lions/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dance/learntodance/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,8 +82,48 @@
   </url>
   
   <url>
+    <loc>/history/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/coding/codeorg/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/science/fieldtrips/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/music/lessonface/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/geography/geographic/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/science/resources/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/science/experiments/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/science/videos/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/history/smithsonian/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,13 +132,43 @@
   </url>
   
   <url>
-    <loc>/getting-started/grade1/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/music/takelessons/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/milestones/grade1/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/music/thumbtack/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/history/time4kids/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/music/youtube/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/social-studies/brainpop/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/math/grade1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/social-studies/newsela/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/social-studies/churchill/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -143,6 +212,11 @@
   </url>
   
   <url>
+    <loc>/dance/steezy/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/reading/storyline/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
@@ -153,13 +227,13 @@
   </url>
   
   <url>
-    <loc>/reading/storyplace/</loc>
+    <loc>/writing/time4writing/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/features/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/about/mentor/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -173,6 +247,16 @@
   </url>
   
   <url>
+    <loc>/math/grade2/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dance/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/feedback/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
   </url>
@@ -183,58 +267,18 @@
   </url>
   
   <url>
-    <loc>/getting-started/grade2/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/grade2/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/geography/postprocess/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/geography/postcss/</loc>
-    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/social-studies/files/</loc>
+    <loc>/math/grade3/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-started/grade3/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/math/grade4/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/milestones/grade3/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/getting-started/grade4/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/grade4/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/getting-started/grade5/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/grade5/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/math/grade5/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -243,18 +287,8 @@
   </url>
   
   <url>
-    <loc>/geography/js/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/geography/babel/</loc>
-    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/geography/minification/</loc>
-    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+    <loc>/math/singapore/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -268,28 +302,8 @@
   </url>
   
   <url>
-    <loc>/getting-started/directory-structure/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/directory-structure/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/geography/bundling/</loc>
-    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/getting-started/code-toggle/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/code-toggle/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/math/beast/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -298,53 +312,18 @@
   </url>
   
   <url>
-    <loc>/getting-started/configuration/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/math/saxon/</loc>
+    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/milestones/configuration/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/math/configuration-markup/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-started/configuration-markup/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/configuration-markup/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/getting-started/external-learning-resources/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/milestones/external-learning-resources/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/geography/fingerprint/</loc>
-    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/social-studies/git/</loc>
-    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/geography/resource-from-template/</loc>
-    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/geography/resource-from-string/</loc>
-    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+    <loc>/math/external-learning-resources/mammoth/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -378,23 +357,33 @@
   </url>
   
   <url>
-    <loc>/categories/asset-management/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/fundamentals/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/getting-started/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/categories/math/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/hugo-modules/</loc>
     <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/reading/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/writing/</loc>
+    <lastmod>2019-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/asset-management/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/history/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -413,23 +402,13 @@
   </url>
   
   <url>
-    <loc>/categories/maintenance/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/maintenance/</loc>
-    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+    <loc>/showcase/ixl/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/templates/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/variables-and-params/</loc>
-    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -448,13 +427,48 @@
   </url>
   
   <url>
-    <loc>/categories/content-management/</loc>
+    <loc>/categories/coding/</loc>
+    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/dance/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/fundamentals/</loc>
+    <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/geography/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/music/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/science/</loc>
+    <lastmod>2017-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/variables-and-params/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/about-hugo/</loc>
     <lastmod>2020-11-06T19:31:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/social-studies/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
