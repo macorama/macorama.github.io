@@ -13,8 +13,11 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/codeorg/</guid>
-      <description>Review    Summary  The best thing about Code.org is that they are spreading the word really well about why coding is important, fun, accessible, and relevant. great job getting famous people to help spread the word, which is really important. I&amp;rsquo;ve found its programming stages to be very motivating and the lesson plans behind them solid.
-The site&amp;rsquo;s two main components are the Hour of Code and Code Studio.</description>
+      <description>Review    Summary    Code.org has helped the cause and explained really well that learning to code coding is important
+  Very well designed coding / gaming flow
+  Hour of Code and Code Studio are the key aspects of the site.
+  It has the visual programming environment that enables dragging coding blocks to solve a puzzle.
+  Kindergartners might struggle a bit with use of mouse to navigate.</description>
     </item>
     
     <item>
@@ -32,17 +35,8 @@ The site&amp;rsquo;s two main components are the Hour of Code and Code Studio.</
       <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/scratch/</guid>
-      <description>Overview  https://www.commonsense.org/education/website/scratch
-Scratch (version 3.0) is the latest iteration of the block-based coding language created by MIT&amp;rsquo;s Lifelong Kindergarten Group. It can be used online or downloaded and used without an internet connection. Like its predecessors, Scratch allows students to learn and put to use all the essential elements of coding and computer science. From creating variables to building functions, students snap drag-and-drop blocks of code together to create programs for animation, digital storytelling, art, math &amp;ndash; you name it.</description>
-    </item>
-    
-    <item>
-      <title>WhiteHat Jr</title>
-      <link>/coding/whitehat-jr/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/coding/whitehat-jr/</guid>
-      <description>Overview  I did not have a positive experience after signing up :( I was</description>
+      <description>Take Aways    One of the oldest and ost mature block based coding
+  Watch tutorial for details     </description>
     </item>
     
     <item>
@@ -51,7 +45,10 @@ Scratch (version 3.0) is the latest iteration of the block-based coding language
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/kodable/</guid>
-      <description>Overview  Kodable introduces kids to key concepts in computer programming through a series of games designed to grow with them from kindergarten to fifth grade. The games are set in outer space, and students advance through the levels by learning programming concepts as they play. Skills start with sequencing and advance to loops, conditions, functions, and variables and into object-oriented programming concepts like properties and classes.</description>
+      <description>Take Aways    Similar to other block coding platforms.
+  Costs a monthly subscription
+  Well implemented flow to teach sequencing, conditionals and loops
+    </description>
     </item>
     
     <item>
@@ -80,7 +77,7 @@ Scratch (version 3.0) is the latest iteration of the block-based coding language
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/coding/hopscotch/</guid>
-      <description>Overview  Parents need to know that Hopscotch-Programming for kids is a drag-and-drop coding app that lets write and share their own programs and animations. Kids can save their creations to their device or choose to share them with the curated Hopscotch channels, and they can play, remix, and comment on other people&amp;rsquo;s creations. It&amp;rsquo;s a lot like Scratch and ScratchJr, two other block-based coding tools, and one big difference is that Hopscotch is built just for mobile devices.</description>
+      <description>take aways    </description>
     </item>
     
   </channel>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>milestones on Learnosity</title>
+    <link>/categories/milestones/</link>
+    <description>Recent content in milestones on Learnosity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/categories/milestones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Milestones</title>
+      <link>/milestones/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/milestones/</guid>
+      <description>Developmental and cognitive milestones are behaviors/skills that children exhibit at a given age.
+  However all children develop differently and can reach these milestone at different times.
+  The checklists that track milestones are just an example of a typical development observation at a given age.
+  Some children develop more rapidly in some areas than in others, and the time frame in which a normally developing child reaches a certain milestone can vary quite a bit.</description>
+    </item>
+    
+    <item>
+      <title>Checklists</title>
+      <link>/milestones/checklists/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/milestones/checklists/</guid>
+      <description>CDC Checlists  Checklists from CDC
+[University of Michigan Health System] (https://www.uofmhealth.org/health-library/hw251065#te4698)
+Pathways  [Pathways.org Checklist] (https://pathways.org/wp-content/uploads/2019/07/milestoneschecklist_updated.pdf)
+Healthychildren.org  This resource contains a helpful section Developmental health watch under each age category
+Help Me Grow  Encouraging Healthy development
+[Healthy development articles] (https://helpmegrowmn.org/HMG/HelpfulRes/Articles/index.html)
+Intervention  A good resource on [when intervention is needed] (https://helpmegrowmn.org/HMG/GetHelpChild/WhyRefer/index.html)
+  </description>
+    </item>
+    
+    <item>
+      <title>Immunization schedule</title>
+      <link>/milestones/immune/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/milestones/immune/</guid>
+      <description>Immunization  Rcommended Child and Adolescent [Immunization Schedule for ages 18 years or younger, United States, 2020] (https://www.cdc.gov/vaccines/schedules/easy-to-read/child-easyread.html)</description>
+    </item>
+    
+    <item>
+      <title>Tracker Apps</title>
+      <link>/milestones/apps/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/milestones/apps/</guid>
+      <description>Apps    [CDC&amp;rsquo;s Milestone Tracker for iPhone ] (https://apps.apple.com/us/app/cdcs-milestone-tracker/id1232718688)
+  [CDC&amp;rsquo;s Milestone Tracker for Android] (https://play.google.com/store/apps/details?id=gov.cdc.ncbddd.actearly.milestones&amp;amp;hl=en_US&amp;amp;gl=US)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

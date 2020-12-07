@@ -8,18 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="/milestones/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Code.org</title>
-      <link>/milestones/apps/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/milestones/apps/</guid>
-      <description>Apps    [CDC&amp;rsquo;s Milestone Tracker for iPhone ] (https://apps.apple.com/us/app/cdcs-milestone-tracker/id1232718688)
-  [CDC&amp;rsquo;s Milestone Tracker for Android] (https://play.google.com/store/apps/details?id=gov.cdc.ncbddd.actearly.milestones&amp;amp;hl=en_US&amp;amp;gl=US)
-  </description>
-    </item>
-    
-    <item>
-      <title>Code.org</title>
+      <title>Checklists</title>
       <link>/milestones/checklists/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
@@ -35,12 +24,23 @@ Intervention  A good resource on [when intervention is needed] (https://helpmegr
     </item>
     
     <item>
-      <title>Code.org</title>
+      <title>Immunization schedule</title>
       <link>/milestones/immune/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/milestones/immune/</guid>
       <description>Immunization  Rcommended Child and Adolescent [Immunization Schedule for ages 18 years or younger, United States, 2020] (https://www.cdc.gov/vaccines/schedules/easy-to-read/child-easyread.html)</description>
+    </item>
+    
+    <item>
+      <title>Tracker Apps</title>
+      <link>/milestones/apps/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/milestones/apps/</guid>
+      <description>Apps    [CDC&amp;rsquo;s Milestone Tracker for iPhone ] (https://apps.apple.com/us/app/cdcs-milestone-tracker/id1232718688)
+  [CDC&amp;rsquo;s Milestone Tracker for Android] (https://play.google.com/store/apps/details?id=gov.cdc.ncbddd.actearly.milestones&amp;amp;hl=en_US&amp;amp;gl=US)
+  </description>
     </item>
     
   </channel>
